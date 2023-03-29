@@ -1,0 +1,8 @@
+D:\C# Training\mahediali\mahediali\bin\Debug\mahediali.exe.config
+D:\C# Training\mahediali\mahediali\bin\Debug\mahediali.exe
+D:\C# Training\mahediali\mahediali\bin\Debug\mahediali.pdb
+D:\C# Training\mahediali\mahediali\obj\Debug\mahediali.csproj.AssemblyReference.cache
+D:\C# Training\mahediali\mahediali\obj\Debug\mahediali.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\mahediali\mahediali\obj\Debug\mahediali.csproj.CoreCompileInputs.cache
+D:\C# Training\mahediali\mahediali\obj\Debug\mahediali.exe
+D:\C# Training\mahediali\mahediali\obj\Debug\mahediali.pdb

@@ -1,0 +1,16 @@
+C:\Users\chint\source\repos\C#Day_3\C#Day_3\bin\Debug\C#Day_3.exe.config
+C:\Users\chint\source\repos\C#Day_3\C#Day_3\bin\Debug\C#Day_3.exe
+C:\Users\chint\source\repos\C#Day_3\C#Day_3\bin\Debug\C#Day_3.pdb
+C:\Users\chint\source\repos\C#Day_3\C#Day_3\obj\Debug\C#Day_3.csproj.AssemblyReference.cache
+C:\Users\chint\source\repos\C#Day_3\C#Day_3\obj\Debug\C#Day_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\chint\source\repos\C#Day_3\C#Day_3\obj\Debug\C#Day_3.csproj.CoreCompileInputs.cache
+C:\Users\chint\source\repos\C#Day_3\C#Day_3\obj\Debug\C#Day_3.exe
+C:\Users\chint\source\repos\C#Day_3\C#Day_3\obj\Debug\C#Day_3.pdb
+D:\C# Training\C#Day_3\C#Day_3\bin\Debug\C#Day_3.exe
+D:\C# Training\C#Day_3\C#Day_3\bin\Debug\C#Day_3.exe.config
+D:\C# Training\C#Day_3\C#Day_3\obj\Debug\C#Day_3.csproj.AssemblyReference.cache
+D:\C# Training\C#Day_3\C#Day_3\obj\Debug\C#Day_3.csproj.SuggestedBindingRedirects.cache
+D:\C# Training\C#Day_3\C#Day_3\obj\Debug\C#Day_3.csproj.CoreCompileInputs.cache
+D:\C# Training\C#Day_3\C#Day_3\obj\Debug\C#Day_3.exe
+D:\C# Training\C#Day_3\C#Day_3\obj\Debug\C#Day_3.pdb
+D:\C# Training\C#Day_3\C#Day_3\bin\Debug\C#Day_3.pdb
