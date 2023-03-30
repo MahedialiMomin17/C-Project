@@ -329,16 +329,16 @@ namespace C__Day_4
 
 
                             // Create original student object
-                            Student originalStudent = new Student("1234", "John Smith", new DateTime(2000, 1, 1), 1, "johnsmith@example.com", new double[] { 3.5, 4.0, 3.8, 3.9, 4.0 });
+                            //Student originalStudent = new Student("1234", "John Smith", new DateTime(2000, 1, 1), 1, "johnsmith@example.com", new double[] { 3.5, 4.0, 3.8, 3.9, 4.0 });
 
                             // Create copy of student using copy constructor
-                            Student copiedStudent = new Student(originalStudent);
+                            //Student copiedStudent = new Student(originalStudent);
 
-                            // Display copied student information in console
-                            Console.WriteLine("");
-                            Console.WriteLine("Copied Student Information:");
-                            Console.WriteLine("ID: " + copiedStudent.StudentId);
-                            Console.WriteLine("Name: " + copiedStudent.StudentName);
+                            //// Display copied student information in console
+                            //Console.WriteLine("");
+                            //Console.WriteLine("Copied Student Information:");
+                            //Console.WriteLine("ID: " + copiedStudent.StudentId);
+                            //Console.WriteLine("Name: " + copiedStudent.StudentName);
                             break;
 
                     }

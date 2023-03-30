@@ -6,3 +6,11 @@ D:\C# Training\C# Day_4\C# Day_4\obj\Debug\C# Day_4.csproj.SuggestedBindingRedir
 D:\C# Training\C# Day_4\C# Day_4\obj\Debug\C# Day_4.csproj.CoreCompileInputs.cache
 D:\C# Training\C# Day_4\C# Day_4\obj\Debug\C# Day_4.exe
 D:\C# Training\C# Day_4\C# Day_4\obj\Debug\C# Day_4.pdb
+D:\GIT_C#_Training\C# Training\C# Day_4\C# Day_4\bin\Debug\C# Day_4.exe.config
+D:\GIT_C#_Training\C# Training\C# Day_4\C# Day_4\bin\Debug\C# Day_4.exe
+D:\GIT_C#_Training\C# Training\C# Day_4\C# Day_4\bin\Debug\C# Day_4.pdb
+D:\GIT_C#_Training\C# Training\C# Day_4\C# Day_4\obj\Debug\C# Day_4.csproj.AssemblyReference.cache
+D:\GIT_C#_Training\C# Training\C# Day_4\C# Day_4\obj\Debug\C# Day_4.csproj.SuggestedBindingRedirects.cache
+D:\GIT_C#_Training\C# Training\C# Day_4\C# Day_4\obj\Debug\C# Day_4.csproj.CoreCompileInputs.cache
+D:\GIT_C#_Training\C# Training\C# Day_4\C# Day_4\obj\Debug\C# Day_4.exe
+D:\GIT_C#_Training\C# Training\C# Day_4\C# Day_4\obj\Debug\C# Day_4.pdb

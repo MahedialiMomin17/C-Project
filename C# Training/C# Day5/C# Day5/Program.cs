@@ -86,7 +86,7 @@ namespace C__Day5
             string jsonFromFile = File.ReadAllText(filePath);
             Person bsObj = JsonConvert.DeserializeObject<Person>(jsonFromFile);
 
-            Console.WriteLine("");
+            Console.WriteLine("  ");
             Console.WriteLine(bsObj.Name);
             Console.WriteLine(bsObj.Age);
             Console.WriteLine(bsObj.City);
