@@ -1,0 +1,8 @@
+D:\GIT_C#_Training\C# Training\C# Day_7\C# Day_7\bin\Debug\C# Day_7.exe.config
+D:\GIT_C#_Training\C# Training\C# Day_7\C# Day_7\bin\Debug\C# Day_7.exe
+D:\GIT_C#_Training\C# Training\C# Day_7\C# Day_7\bin\Debug\C# Day_7.pdb
+D:\GIT_C#_Training\C# Training\C# Day_7\C# Day_7\obj\Debug\C# Day_7.csproj.AssemblyReference.cache
+D:\GIT_C#_Training\C# Training\C# Day_7\C# Day_7\obj\Debug\C# Day_7.csproj.SuggestedBindingRedirects.cache
+D:\GIT_C#_Training\C# Training\C# Day_7\C# Day_7\obj\Debug\C# Day_7.csproj.CoreCompileInputs.cache
+D:\GIT_C#_Training\C# Training\C# Day_7\C# Day_7\obj\Debug\C# Day_7.exe
+D:\GIT_C#_Training\C# Training\C# Day_7\C# Day_7\obj\Debug\C# Day_7.pdb

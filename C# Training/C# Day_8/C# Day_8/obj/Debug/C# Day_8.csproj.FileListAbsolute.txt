@@ -1,0 +1,29 @@
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\C# Day_8.exe.config
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\C# Day_8.exe
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\C# Day_8.pdb
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\Newtonsoft.Json.dll
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Buffers.dll
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Memory.dll
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Numerics.Vectors.dll
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Text.Encodings.Web.dll
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Text.Json.dll
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.ValueTuple.dll
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\Newtonsoft.Json.xml
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Buffers.xml
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Memory.xml
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Numerics.Vectors.xml
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Text.Encodings.Web.xml
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Text.Json.xml
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\bin\Debug\System.ValueTuple.xml
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\obj\Debug\C# Day_8.csproj.AssemblyReference.cache
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\obj\Debug\C# Day_8.csproj.SuggestedBindingRedirects.cache
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\obj\Debug\C# Day_8.csproj.CoreCompileInputs.cache
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\obj\Debug\C# Day_8.csproj.CopyComplete
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\obj\Debug\C# Day_8.exe
+D:\GIT_C#_Training\C# Training\C# Day_8\C# Day_8\obj\Debug\C# Day_8.pdb
