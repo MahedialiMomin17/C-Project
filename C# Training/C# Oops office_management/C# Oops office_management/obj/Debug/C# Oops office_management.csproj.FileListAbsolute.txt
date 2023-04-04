@@ -1,0 +1,8 @@
+D:\GIT_C#_Training\C# Training\C# Oops office_management\C# Oops office_management\bin\Debug\C# Oops office_management.exe.config
+D:\GIT_C#_Training\C# Training\C# Oops office_management\C# Oops office_management\bin\Debug\C# Oops office_management.exe
+D:\GIT_C#_Training\C# Training\C# Oops office_management\C# Oops office_management\bin\Debug\C# Oops office_management.pdb
+D:\GIT_C#_Training\C# Training\C# Oops office_management\C# Oops office_management\obj\Debug\C# Oops office_management.csproj.AssemblyReference.cache
+D:\GIT_C#_Training\C# Training\C# Oops office_management\C# Oops office_management\obj\Debug\C# Oops office_management.csproj.SuggestedBindingRedirects.cache
+D:\GIT_C#_Training\C# Training\C# Oops office_management\C# Oops office_management\obj\Debug\C# Oops office_management.csproj.CoreCompileInputs.cache
+D:\GIT_C#_Training\C# Training\C# Oops office_management\C# Oops office_management\obj\Debug\C# Oops office_management.exe
+D:\GIT_C#_Training\C# Training\C# Oops office_management\C# Oops office_management\obj\Debug\C# Oops office_management.pdb

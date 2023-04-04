@@ -1,0 +1,8 @@
+D:\GIT_C#_Training\C# Training\C# oops OTT_Netflix\C# oops OTT_Netflix\bin\Debug\C# oops OTT_Netflix.exe.config
+D:\GIT_C#_Training\C# Training\C# oops OTT_Netflix\C# oops OTT_Netflix\bin\Debug\C# oops OTT_Netflix.exe
+D:\GIT_C#_Training\C# Training\C# oops OTT_Netflix\C# oops OTT_Netflix\bin\Debug\C# oops OTT_Netflix.pdb
+D:\GIT_C#_Training\C# Training\C# oops OTT_Netflix\C# oops OTT_Netflix\obj\Debug\C# oops OTT_Netflix.csproj.AssemblyReference.cache
+D:\GIT_C#_Training\C# Training\C# oops OTT_Netflix\C# oops OTT_Netflix\obj\Debug\C# oops OTT_Netflix.csproj.SuggestedBindingRedirects.cache
+D:\GIT_C#_Training\C# Training\C# oops OTT_Netflix\C# oops OTT_Netflix\obj\Debug\C# oops OTT_Netflix.csproj.CoreCompileInputs.cache
+D:\GIT_C#_Training\C# Training\C# oops OTT_Netflix\C# oops OTT_Netflix\obj\Debug\C# oops OTT_Netflix.exe
+D:\GIT_C#_Training\C# Training\C# oops OTT_Netflix\C# oops OTT_Netflix\obj\Debug\C# oops OTT_Netflix.pdb

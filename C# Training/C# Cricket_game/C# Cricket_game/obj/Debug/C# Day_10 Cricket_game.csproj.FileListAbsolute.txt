@@ -1,0 +1,8 @@
+D:\GIT_C#_Training\C# Training\C# Cricket_game\C# Cricket_game\bin\Debug\C# Cricket_game.exe.config
+D:\GIT_C#_Training\C# Training\C# Cricket_game\C# Cricket_game\bin\Debug\C# Cricket_game.exe
+D:\GIT_C#_Training\C# Training\C# Cricket_game\C# Cricket_game\bin\Debug\C# Cricket_game.pdb
+D:\GIT_C#_Training\C# Training\C# Cricket_game\C# Cricket_game\obj\Debug\C# Day_10 Cricket_game.csproj.AssemblyReference.cache
+D:\GIT_C#_Training\C# Training\C# Cricket_game\C# Cricket_game\obj\Debug\C# Day_10 Cricket_game.csproj.SuggestedBindingRedirects.cache
+D:\GIT_C#_Training\C# Training\C# Cricket_game\C# Cricket_game\obj\Debug\C# Day_10 Cricket_game.csproj.CoreCompileInputs.cache
+D:\GIT_C#_Training\C# Training\C# Cricket_game\C# Cricket_game\obj\Debug\C# Cricket_game.exe
+D:\GIT_C#_Training\C# Training\C# Cricket_game\C# Cricket_game\obj\Debug\C# Cricket_game.pdb

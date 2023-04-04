@@ -1,0 +1,8 @@
+D:\GIT_C#_Training\C# Training\C# oops matrimonial_system\C# oops matrimonial_system\bin\Debug\C# oops matrimonial_system.exe.config
+D:\GIT_C#_Training\C# Training\C# oops matrimonial_system\C# oops matrimonial_system\bin\Debug\C# oops matrimonial_system.exe
+D:\GIT_C#_Training\C# Training\C# oops matrimonial_system\C# oops matrimonial_system\bin\Debug\C# oops matrimonial_system.pdb
+D:\GIT_C#_Training\C# Training\C# oops matrimonial_system\C# oops matrimonial_system\obj\Debug\C# oops matrimonial_system.csproj.AssemblyReference.cache
+D:\GIT_C#_Training\C# Training\C# oops matrimonial_system\C# oops matrimonial_system\obj\Debug\C# oops matrimonial_system.csproj.SuggestedBindingRedirects.cache
+D:\GIT_C#_Training\C# Training\C# oops matrimonial_system\C# oops matrimonial_system\obj\Debug\C# oops matrimonial_system.csproj.CoreCompileInputs.cache
+D:\GIT_C#_Training\C# Training\C# oops matrimonial_system\C# oops matrimonial_system\obj\Debug\C# oops matrimonial_system.exe
+D:\GIT_C#_Training\C# Training\C# oops matrimonial_system\C# oops matrimonial_system\obj\Debug\C# oops matrimonial_system.pdb

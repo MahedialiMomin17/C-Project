@@ -1,0 +1,8 @@
+D:\GIT_C#_Training\C# Training\C# ROI Calculator Day_10\C# ROI Calculator Day_10\bin\Debug\C# ROI Calculator Day_10.exe.config
+D:\GIT_C#_Training\C# Training\C# ROI Calculator Day_10\C# ROI Calculator Day_10\bin\Debug\C# ROI Calculator Day_10.exe
+D:\GIT_C#_Training\C# Training\C# ROI Calculator Day_10\C# ROI Calculator Day_10\bin\Debug\C# ROI Calculator Day_10.pdb
+D:\GIT_C#_Training\C# Training\C# ROI Calculator Day_10\C# ROI Calculator Day_10\obj\Debug\C# ROI Calculator Day_10.csproj.AssemblyReference.cache
+D:\GIT_C#_Training\C# Training\C# ROI Calculator Day_10\C# ROI Calculator Day_10\obj\Debug\C# ROI Calculator Day_10.csproj.SuggestedBindingRedirects.cache
+D:\GIT_C#_Training\C# Training\C# ROI Calculator Day_10\C# ROI Calculator Day_10\obj\Debug\C# ROI Calculator Day_10.csproj.CoreCompileInputs.cache
+D:\GIT_C#_Training\C# Training\C# ROI Calculator Day_10\C# ROI Calculator Day_10\obj\Debug\C# ROI Calculator Day_10.exe
+D:\GIT_C#_Training\C# Training\C# ROI Calculator Day_10\C# ROI Calculator Day_10\obj\Debug\C# ROI Calculator Day_10.pdb
