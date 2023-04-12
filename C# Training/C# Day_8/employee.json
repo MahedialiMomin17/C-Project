@@ -1,0 +1,38 @@
+[
+  {
+    "FirstName": null,
+    "LastName": null,
+    "Gender": "m",
+    "Email": "ac@gmail.com",
+    "PhoneNumber": null,
+    "Designation": 1,
+    "Salary": 0.0
+  },
+  {
+    "FirstName": "ad",
+    "LastName": "asd",
+    "Gender": "male",
+    "Email": "aa@gmail.com",
+    "PhoneNumber": "1231231231",
+    "Designation": 1,
+    "Salary": 20000.0
+  },
+  {
+    "FirstName": "das",
+    "LastName": "asd",
+    "Gender": "female",
+    "Email": "a@gmail.com",
+    "PhoneNumber": "1231231231",
+    "Designation": 2,
+    "Salary": 25000.0
+  },
+  {
+    "FirstName": "dd",
+    "LastName": "ddd",
+    "Gender": "male",
+    "Email": "ww@gmail.com",
+    "PhoneNumber": "1231231231",
+    "Designation": 2,
+    "Salary": 30000.0
+  }
+]

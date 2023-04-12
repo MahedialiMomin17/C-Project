@@ -1,0 +1,19 @@
+[
+  {
+    "EmployeeID": 1,
+    "Name": "mahediali",
+    "DOB": "12-Jan-2000",
+    "Gender": "Male",
+    "Designation": 2,
+    "City": "adsas",
+    "State": "adsas",
+    "Postcode": "131123",
+    "Phone": "2131231231",
+    "Email": "aa@gmail.com",
+    "DateOfJoining": "12-Dec-2002",
+    "TotalExperience": "20 years and 4 months",
+    "Remarks": "ad",
+    "Department": 2,
+    "MonthlySalary": 20000.0
+  }
+]

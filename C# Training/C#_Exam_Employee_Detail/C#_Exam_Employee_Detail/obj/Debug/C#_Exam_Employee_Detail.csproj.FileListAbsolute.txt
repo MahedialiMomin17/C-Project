@@ -1,0 +1,11 @@
+D:\GIT_C#_Training\C# Training\C#_Exam_Employee_Detail\C#_Exam_Employee_Detail\bin\Debug\C#_Exam_Employee_Detail.exe.config
+D:\GIT_C#_Training\C# Training\C#_Exam_Employee_Detail\C#_Exam_Employee_Detail\bin\Debug\C#_Exam_Employee_Detail.exe
+D:\GIT_C#_Training\C# Training\C#_Exam_Employee_Detail\C#_Exam_Employee_Detail\bin\Debug\C#_Exam_Employee_Detail.pdb
+D:\GIT_C#_Training\C# Training\C#_Exam_Employee_Detail\C#_Exam_Employee_Detail\bin\Debug\Newtonsoft.Json.dll
+D:\GIT_C#_Training\C# Training\C#_Exam_Employee_Detail\C#_Exam_Employee_Detail\bin\Debug\Newtonsoft.Json.xml
+D:\GIT_C#_Training\C# Training\C#_Exam_Employee_Detail\C#_Exam_Employee_Detail\obj\Debug\C#_Exam_Employee_Detail.csproj.AssemblyReference.cache
+D:\GIT_C#_Training\C# Training\C#_Exam_Employee_Detail\C#_Exam_Employee_Detail\obj\Debug\C#_Exam_Employee_Detail.csproj.SuggestedBindingRedirects.cache
+D:\GIT_C#_Training\C# Training\C#_Exam_Employee_Detail\C#_Exam_Employee_Detail\obj\Debug\C#_Exam_Employee_Detail.csproj.CoreCompileInputs.cache
+D:\GIT_C#_Training\C# Training\C#_Exam_Employee_Detail\C#_Exam_Employee_Detail\obj\Debug\C#_Exam_Employee_Detail.csproj.CopyComplete
+D:\GIT_C#_Training\C# Training\C#_Exam_Employee_Detail\C#_Exam_Employee_Detail\obj\Debug\C#_Exam_Employee_Detail.exe
+D:\GIT_C#_Training\C# Training\C#_Exam_Employee_Detail\C#_Exam_Employee_Detail\obj\Debug\C#_Exam_Employee_Detail.pdb

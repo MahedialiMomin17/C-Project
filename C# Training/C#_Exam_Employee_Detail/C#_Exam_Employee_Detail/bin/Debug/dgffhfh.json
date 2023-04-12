@@ -1,0 +1,19 @@
+[
+  {
+    "EmployeeID": 2001,
+    "Name": "mahediali",
+    "DOB": "01-Feb-1999",
+    "Gender": "Female",
+    "Designation": 4,
+    "City": "daman",
+    "State": "daman",
+    "Postcode": "123456",
+    "Phone": "1231231231",
+    "Email": "aa@gmail.com",
+    "DateOfJoining": "09-Feb-2000",
+    "TotalExperience": "23 years and 2 months",
+    "Remarks": "asads",
+    "Department": "QA",
+    "MonthlySalary": 20000.0
+  }
+]
