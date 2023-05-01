@@ -1,0 +1,12 @@
+D:\C# Mahediali_GIT\C# Training\MVCPractice_File_upload\CommonLibrary\bin\Debug\net6.0\CommonLibrary.deps.json
+D:\C# Mahediali_GIT\C# Training\MVCPractice_File_upload\CommonLibrary\bin\Debug\net6.0\CommonLibrary.dll
+D:\C# Mahediali_GIT\C# Training\MVCPractice_File_upload\CommonLibrary\bin\Debug\net6.0\CommonLibrary.pdb
+D:\C# Mahediali_GIT\C# Training\MVCPractice_File_upload\CommonLibrary\obj\Debug\net6.0\CommonLibrary.csproj.AssemblyReference.cache
+D:\C# Mahediali_GIT\C# Training\MVCPractice_File_upload\CommonLibrary\obj\Debug\net6.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Mahediali_GIT\C# Training\MVCPractice_File_upload\CommonLibrary\obj\Debug\net6.0\CommonLibrary.AssemblyInfoInputs.cache
+D:\C# Mahediali_GIT\C# Training\MVCPractice_File_upload\CommonLibrary\obj\Debug\net6.0\CommonLibrary.AssemblyInfo.cs
+D:\C# Mahediali_GIT\C# Training\MVCPractice_File_upload\CommonLibrary\obj\Debug\net6.0\CommonLibrary.csproj.CoreCompileInputs.cache
+D:\C# Mahediali_GIT\C# Training\MVCPractice_File_upload\CommonLibrary\obj\Debug\net6.0\CommonLibrary.dll
+D:\C# Mahediali_GIT\C# Training\MVCPractice_File_upload\CommonLibrary\obj\Debug\net6.0\refint\CommonLibrary.dll
+D:\C# Mahediali_GIT\C# Training\MVCPractice_File_upload\CommonLibrary\obj\Debug\net6.0\CommonLibrary.pdb
+D:\C# Mahediali_GIT\C# Training\MVCPractice_File_upload\CommonLibrary\obj\Debug\net6.0\ref\CommonLibrary.dll

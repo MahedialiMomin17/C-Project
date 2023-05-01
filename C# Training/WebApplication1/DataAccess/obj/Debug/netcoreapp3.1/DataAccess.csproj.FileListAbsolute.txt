@@ -1,0 +1,10 @@
+D:\C# Mahediali_GIT\C# Training\WebApplication1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\C# Mahediali_GIT\C# Training\WebApplication1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\C# Mahediali_GIT\C# Training\WebApplication1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\C# Mahediali_GIT\C# Training\WebApplication1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+D:\C# Mahediali_GIT\C# Training\WebApplication1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Mahediali_GIT\C# Training\WebApplication1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\C# Mahediali_GIT\C# Training\WebApplication1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\C# Mahediali_GIT\C# Training\WebApplication1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\C# Mahediali_GIT\C# Training\WebApplication1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\C# Mahediali_GIT\C# Training\WebApplication1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
