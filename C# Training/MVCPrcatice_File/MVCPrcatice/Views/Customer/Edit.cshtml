@@ -10,12 +10,18 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Edit">
+        <form asp-action="Edit"  method="post"  enctype = "multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 @Html.EditorFor(m=>m.Name)
                 @Html.EditorFor(m=>m.Phone)
                 @Html.EditorFor(m=>m.Email)
                 @Html.EditorFor(m=>m.City)
+
+                 <div class="form-group">
+                     <label class="control-label">Customer File</label>
+                     <input type="file" name="FileName" id="file" class="form-control" />
+                </div>
+
            @* <div class="form-group">
                 <label asp-for="Name" class="control-label"></label>
                 <input asp-for="Name" class="form-control" />
@@ -36,7 +42,7 @@
                 <input asp-for="City" class="form-control" />
                 <span asp-validation-for="City" class="text-danger"></span>
             </div>*@
-            <div class="form-group">
+            <div class="form-group mt-3 mb-3">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
         </form>
@@ -44,6 +50,6 @@
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index" class="btn btn-warning">Back to List</a>
 </div>
 

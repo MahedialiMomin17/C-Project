@@ -4,14 +4,14 @@
     "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\MVCPrcatice.csproj": {}
   },
   "projects": {
-    "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\MVCPrcatice.csproj": {
+    "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\MVCPrcatice.csproj",
-        "projectName": "MVCPrcatice",
-        "projectPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\MVCPrcatice.csproj",
+        "projectUniqueName": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj",
+        "projectName": "CommonLibrary",
+        "projectPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\",
+        "outputPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,175 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj": {
+                "projectPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.1, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[41.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\MVCPrcatice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\MVCPrcatice.csproj",
+        "projectName": "MVCPrcatice",
+        "projectPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\MVCPrcatice.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj": {
+                "projectPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj"
+              },
+              "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\DataAccessLayer\\DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[2.46.6, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.13, )"

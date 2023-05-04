@@ -35,11 +35,15 @@ namespace MVCPrcatice.Controllers
         //public JsonResult IsEmailExist(string Email)
         //{
         //    bool isExist = false;
-        //    if (Email.Equals("abc@gmail.com"))
+
+        //    // TODO: Replace the following code with a call to your database to check if the email already exists
+        //    var user = db.Users.FirstOrDefault(u => u.Email == Email);
+        //    if (user != null)
         //    {
         //        isExist = true;
         //    }
-        //    return Json(!isExist, JsonRequestBehavior.AllowGet);
+
+        //    return Json(!isExist, System.Web.Mvc.JsonRequestBehavior.AllowGet);
         //}
     }
 }

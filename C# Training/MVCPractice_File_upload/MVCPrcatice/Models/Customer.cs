@@ -28,7 +28,7 @@ namespace MVCPrcatice.Models
 
         [Required(ErrorMessage = "Email is required")]
         [RegularExpression(@"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$", ErrorMessage = "Invalid email address")]
-        [Remote("IsEmailExist", "Home", ErrorMessage = "Email Already Exist. Please choose another email.")]
+        //[Remote("IsEmailExist", "Home", ErrorMessage = "Email Already Exist. Please choose another email.")]
         public string Email { get; set; }
 
 

@@ -7,8 +7,32 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\ProfilePicture\839008.jpg\**" />
+    <Compile Remove="wwwroot\ProfilePicture\assassins_creed_assassins_symbol_background_graphics_red_19611_1920x1080.jpg\**" />
+    <Content Remove="wwwroot\ProfilePicture\839008.jpg\**" />
+    <Content Remove="wwwroot\ProfilePicture\assassins_creed_assassins_symbol_background_graphics_red_19611_1920x1080.jpg\**" />
+    <EmbeddedResource Remove="wwwroot\ProfilePicture\839008.jpg\**" />
+    <EmbeddedResource Remove="wwwroot\ProfilePicture\assassins_creed_assassins_symbol_background_graphics_red_19611_1920x1080.jpg\**" />
+    <None Remove="wwwroot\ProfilePicture\839008.jpg\**" />
+    <None Remove="wwwroot\ProfilePicture\assassins_creed_assassins_symbol_background_graphics_red_19611_1920x1080.jpg\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grpc.Core" Version="2.46.6" />
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.9" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.1" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
     <PackageReference Include="MongoDB.Driver" Version="2.19.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\ProfilePicture\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommonLibrary\CommonLibrary.csproj" />
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj" />
   </ItemGroup>
 
 </Project>

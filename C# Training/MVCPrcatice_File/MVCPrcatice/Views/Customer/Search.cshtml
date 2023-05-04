@@ -1,0 +1,110 @@
+﻿@using CommonLibrary
+@model MVCPractice.Models.CustomerPaging
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    .btn a {
+        text-decoration: none;
+        color: white;
+    }
+
+</style>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+    <button type="button" class="btn btn-warning" id="resetButton">Reset</button>
+
+
+</p>
+<div class="col-md-4">
+@*<input type="text" class="form-control" value="@ViewBag.search"/>*@
+     @using (Html.BeginForm("Search","Customer",FormMethod.Get)){
+        <input type="text" class="form-control" id="searchTextbox" name="search"  value="@ViewBag.search" placeholder="Search here">
+    }
+</div>
+<table class="table">
+    <thead>
+        <tr>
+        
+            <th>
+               <a href=""> ProfilePicture </a>
+            </th> 
+            <th>
+                <a href="@Url.Action("Search", new { page = Model.Page ,search=ViewBag.search,sortby="Name",orderby=ViewBag.orderby})">Name <i class="fas fa-sort"></i></a>
+               
+            </th>
+            <th>
+               <a href="@Url.Action("Search", new { page = Model.Page ,search=ViewBag.search,sortby="Phone",orderby=ViewBag.orderby})">Phone <i class="fas fa-sort"></i> </a>
+            </th>
+            <th>
+                <a href="@Url.Action("Search", new { page = Model.Page ,search=ViewBag.search,sortby="Email",orderby=ViewBag.orderby})">Email <i class="fas fa-sort"></i></a>
+            </th>
+            <th>
+              <a href="@Url.Action("Search", new { page = Model.Page ,search=ViewBag.search,sortby=ViewBag.sortby,orderby=ViewBag.orderby})">City <i class="fas fa-sort"></i></a>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Records) {
+        <tr>
+           <td>  
+                <img src="@Url.Content("~/ProfilePicture/" + item.ImageUrl)" style="width: 70px; height: 65px; object-fit: cover; border-radius: 24%;" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+               <a href="@Url.Action("Edit", new { id = item.Id })" class="btn btn-primary">
+                <i class="fas fa-edit"></i> 
+              </a>
+              <a href="@Url.Action("Delete", new { id = item.Id })" class="btn btn-danger">
+                <i class="fas fa-trash-alt"></i> 
+              </a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<ul class="pagination">  
+        @for (int i = 1; i <= Model.TotalPage; i++)  
+        {  
+            <li class="@(i == Model.Page ? "page-item active" : "page-item")">  
+                <a class="page-link" href="@Url.Action("Search", new { page = i ,search=ViewBag.search,sortby=ViewBag.sortby,orderby=ViewBag.orderby})">@i</a>  
+            </li>  
+        }  
+</ul>  
+    
+
+@section scripts {
+   <script src="/path/to/reset.js"></script>
+
+   <script>
+    document.getElementById("resetButton").addEventListener("click", function() {
+  // Delete the "search" cookie
+  document.cookie.split(';').forEach(c => {
+    document.cookie = c.replace(/^ +/, '').replace(/=.*/, '=;expires=' + new Date().toUTCString() + ';path=/');
+  });
+  
+  // Clear the search textbox value
+  document.getElementById("searchTextbox").value = "";
+  
+  // Redirect to the Search action with an empty search string
+  window.location.href = 'search';
+});
+
+
+</script>
+
+}

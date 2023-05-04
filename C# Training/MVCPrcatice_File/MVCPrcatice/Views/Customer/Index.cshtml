@@ -1,5 +1,6 @@
 ﻿@model IEnumerable<MVCPrcatice.Models.Customer>
 
+
 @{
     ViewData["Title"] = "Index";
 }
@@ -7,11 +8,19 @@
 <h1>Index</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+    <div class="col-md-4">
+   
+    </div>
 </p>
+
+
 <table class="table">
     <thead>
         <tr>
+            <th>
+               ProfilePicture
+            </th>
             <th>
                 @Html.DisplayNameFor(model => model.Id)
             </th>
@@ -27,12 +36,18 @@
             <th>
                 @Html.DisplayNameFor(model => model.City)
             </th>
-            <th></th>
+            <th>
+                <a href="@Url.Action("ExportCustomers", "Customer")" class="btn btn-success">Export as CSV</a>
+            </th>
         </tr>
     </thead>
     <tbody>
 @foreach (var item in Model) {
         <tr>
+            <td>
+                <img src="@Url.Content("~/ProfilePicture/" + item.ImageUrl)" style="width: 70px; height: 65px; object-fit: cover; border-radius: 24%;" />
+            </td>
+
             <td>
                 @Html.DisplayFor(modelItem => item.Id)
             </td>
@@ -49,11 +64,70 @@
                 @Html.DisplayFor(modelItem => item.City)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id=item.Id }) 
-                @*@Html.ActionLink("Details", "Details", new { id=item.Id  }) *@
-                @Html.ActionLink("Delete", "Delete", new {  id=item.Id })
+              <a href="@Url.Action("Edit", new { id = item.Id })" class="btn btn-primary">
+                <i class="fas fa-edit"></i> 
+              </a>
+              <a href="@Url.Action("Delete", new { id = item.Id })" class="btn btn-danger">
+                <i class="fas fa-trash-alt"></i> 
+              </a>
+              <a href="@Url.Action("GetCustomer", new { id = item.Id })" class="btn btn-secondary open-modal">
+                <i class="fa-sharp fa-solid fa-magnifying-glass"></i>
+              </a>
             </td>
+
         </tr>
 }
     </tbody>
 </table>
+
+
+
+
+<div class="modal fade" id="CustomerModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">Customer Details</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div id="customerDetails">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+@section scripts {
+   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.open-modal').click(function (e) {
+                e.preventDefault();
+                var url = $(this).attr('href');
+                $.get(url, function (data) {
+                      $('#customerDetails').html(data);
+                    $('#CustomerModal').modal('show');
+                });
+            });
+            
+            $('#CustomerModal').on('hidden.bs.modal', function () {
+                $(this).find('form')[0].reset();
+            });
+        });
+    </script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#export-btn').click(function (e) {
+                e.preventDefault();
+                var url = '@Url.Action("Create", "Customer", new { downloadCSV = true })';
+                window.location.href = url;
+            });
+        });
+    </script>
+}

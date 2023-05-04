@@ -1,7 +1,14 @@
+using Microsoft.Extensions.Hosting.Internal;
+using MVCPractice.Services;
+using Stripe;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<CustomerRepository>(); 
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
 var app = builder.Build();
 
