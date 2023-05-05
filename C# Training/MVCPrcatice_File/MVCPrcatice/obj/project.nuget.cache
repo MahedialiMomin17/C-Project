@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "AHxuhsaKd+Eu+8jPTKSQvVxGc1Pxfpo91YSZSLEf20o/cUjfrdrs930QRG3wzJAcd/zZYvRNmfHcYlAFSaKEdw==",
+  "dgSpecHash": "N8MjFgNqKkLMRd4mK5vr5gtYj8456PgCw0WiOv+pvQrH2/5f/hn7pVNDTt4s/U8Af073jj3S53u8D8riqqLJyw==",
   "success": true,
   "projectFilePath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\MVCPrcatice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\grpc.core.api\\2.46.6\\grpc.core.api.2.46.6.nupkg.sha512",

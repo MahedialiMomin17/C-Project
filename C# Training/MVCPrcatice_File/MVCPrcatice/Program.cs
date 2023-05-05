@@ -1,3 +1,4 @@
+using DataAccessLayer.Interface;
 using Microsoft.Extensions.Hosting.Internal;
 using MVCPractice.Services;
 using Stripe;
@@ -9,6 +10,10 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<CustomerRepository>(); 
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddMemoryCache();
+
+//builder.Services.AddScoped<ICustomerService, CustomerRepository>();
+
 
 var app = builder.Build();
 

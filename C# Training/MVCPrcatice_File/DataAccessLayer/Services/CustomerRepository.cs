@@ -26,6 +26,22 @@ namespace MVCPractice.Services
         }
 
 
+        public IEnumerable<Customer> GetAllCustomers()
+        {
+            var customers = _customerCollection.Find(Builders<Customer>.Filter.Empty).ToList();
+            return customers;
+        }
+
+
+        public void DeleteCustomer(string id)
+        {
+            GetMongoCollection().DeleteOne(x => x.Id == id);
+        }
+
+        private IMongoCollection<Customer> GetMongoCollection()
+        {
+            return _customerCollection;
+        }
 
 
         public List<Customer> GetEmailCustomer(string email)

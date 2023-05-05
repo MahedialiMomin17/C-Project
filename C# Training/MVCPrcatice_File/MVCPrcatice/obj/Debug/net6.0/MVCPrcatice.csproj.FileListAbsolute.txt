@@ -575,3 +575,4 @@ D:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\MVCPrcatice\bin\Debug\net6.0\Mi
 D:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\MVCPrcatice\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 D:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\MVCPrcatice\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 D:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\MVCPrcatice\obj\Debug\net6.0\MVCPrcatice.MvcApplicationPartsAssemblyInfo.cs
+D:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\MVCPrcatice\bin\Debug\net6.0\bundleconfig.json

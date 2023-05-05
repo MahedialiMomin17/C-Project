@@ -89,22 +89,7 @@
 
 @section scripts {
    <script src="/path/to/reset.js"></script>
+   <script src="~/js/site.min.js"></script>
 
-   <script>
-    document.getElementById("resetButton").addEventListener("click", function() {
-  // Delete the "search" cookie
-  document.cookie.split(';').forEach(c => {
-    document.cookie = c.replace(/^ +/, '').replace(/=.*/, '=;expires=' + new Date().toUTCString() + ';path=/');
-  });
-  
-  // Clear the search textbox value
-  document.getElementById("searchTextbox").value = "";
-  
-  // Redirect to the Search action with an empty search string
-  window.location.href = 'search';
-});
-
-
-</script>
 
 }

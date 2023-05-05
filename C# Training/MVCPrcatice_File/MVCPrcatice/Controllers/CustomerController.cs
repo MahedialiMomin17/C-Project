@@ -7,13 +7,18 @@ using MVCPrcatice.Models;
 using MongoDB.Bson;
 using MongoDB.Driver;
 using MVCPrcatice.Models;
-
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
+using System;
+using System.IO;
 using System.Data;
 using System.Reflection;
 //using System.Web.Mvc;
 using ActionResult = Microsoft.AspNetCore.Mvc.ActionResult;
 using MVCPractice.Services;
 using Grpc.Core;
+using Microsoft.Extensions.Caching.Memory;
+using CustomerManagement.Common;
 
 namespace MVCPrcatice.Controllers
 {
@@ -31,13 +36,16 @@ namespace MVCPrcatice.Controllers
         private readonly IConfiguration _configuration;
         private readonly IWebHostEnvironment _webHostEnvironment;
         private readonly IHttpContextAccessor _contextAccessor;
+        private readonly IMemoryCache _memoryCache;
 
-        public CustomerController(CustomerRepository customerRepository, IConfiguration configuration, IWebHostEnvironment webHostEnvironment, IHttpContextAccessor contextAccessor)
+
+        public CustomerController(CustomerRepository customerRepository, IConfiguration configuration, IWebHostEnvironment webHostEnvironment, IHttpContextAccessor contextAccessor, IMemoryCache memoryCache)
         {
             _customerRepository = customerRepository;
             _configuration = configuration;
             _webHostEnvironment = webHostEnvironment;
             _contextAccessor = contextAccessor;
+            _memoryCache = memoryCache;
         }
 
 
@@ -59,11 +67,26 @@ namespace MVCPrcatice.Controllers
         // GET: Customer
         public ActionResult Index()
         {
-            // Get all users from MongoDB
-            var users = GetMongoCollection().Find(Builders<Customer>.Filter.Empty).ToList();
+            //for(int i=0; i<; i++)
+            //{
+            //    var user = new Customer()
+            //    {
+            //        Name = "momin",
+            //        City = "Daman",
+            //        Email = "mahediali_" + i.ToString() + "@gmail.com",
+            //        Phone = "873501" + i + i + i,
+            //        FileName = "",
+            //    };
+            
+            //    GetMongoCollection().InsertOne(user);
+                  
+            //}
+            // Get all customers from the repository
+            var customers = _customerRepository.GetAllCustomers();
 
-            return View(users);
+            return View(customers);
         }
+
 
 
 
@@ -171,7 +194,6 @@ namespace MVCPrcatice.Controllers
             return View(customer);
         }
 
-        // POST: Customer/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(Customer customer, IFormFile file)
@@ -197,9 +219,19 @@ namespace MVCPrcatice.Controllers
                     }
                     customer.ImageUrl = fileName;
                 }
-
+                else
+                {
+                    // If no new image was uploaded, keep the existing one
+                    customer.ImageUrl = GetMongoCollection().Find(x => x.Id == customer.Id).FirstOrDefault().ImageUrl;
+                }
                 // Update a customer in MongoDB
                 var updateResult = GetMongoCollection().ReplaceOne(x => x.Id == customer.Id, customer);
+                var objCacheKeys = MemoryCacheExtensions.GetKeys<string>(_memoryCache).Where(p => p.Contains("customer")).ToList();
+                foreach (var key in objCacheKeys)
+                {
+                    _memoryCache.Remove(key);
+                }
+       
 
                 return RedirectToAction("Index");
             }
@@ -215,6 +247,8 @@ namespace MVCPrcatice.Controllers
 
 
 
+
+
         // GET: Customer/Delete/5
         public ActionResult Delete(string id)
         {
@@ -223,7 +257,7 @@ namespace MVCPrcatice.Controllers
 
             if (customer == null)
             {
-    
+
                 return NotFound();
             }
 
@@ -232,14 +266,17 @@ namespace MVCPrcatice.Controllers
 
         // POST: Customer/Delete/5
         [HttpPost]
-        [ValidateAntiForgeryToken]
+        //[ValidateAntiForgeryToken]
         public ActionResult Delete(string id, IFormCollection collection)
         {
             try
             {
-                // Delete the customer by ObjectId from MongoDB
-                GetMongoCollection().DeleteOne(x => x.Id == id);
-
+                _customerRepository.DeleteCustomer(id);
+                var objCacheKeys = MemoryCacheExtensions.GetKeys<string>(_memoryCache).Where(p => p.Contains("customer")).ToList();
+                foreach (var key in objCacheKeys)
+                {
+                    _memoryCache.Remove(key);
+                }
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -270,8 +307,15 @@ namespace MVCPrcatice.Controllers
                 search = cookie;
             
             }
+            var cacheKey = string.Format("customer_{0}_{1}_{2}_{3}", search, page, sortby, orderby);
 
-            var objcustomers = _customerRepository.SearchCustomer(search, sortby, orderby, page, pageSize: 3);
+            var objcustomers = _memoryCache.GetOrCreate(cacheKey, entry =>
+            {
+                entry.SlidingExpiration = TimeSpan.FromMinutes(10);
+                return _customerRepository.SearchCustomer(search, sortby, orderby, page, pageSize: 100);
+            });
+
+            //var objcustomers = _customerRepository.SearchCustomer(search, sortby, orderby, page, pageSize: 250);
             ViewBag.search = search;
             ViewBag.sortby = sortby;
 
@@ -306,21 +350,6 @@ namespace MVCPrcatice.Controllers
             return Json("Delete");
 
         }
-
-        //// POST: Customer/Reset
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult Reset()
-        //{
-        //    // Delete the "search" cookie
-        //    if (Request.Cookies["search"] != null)
-        //    {
-        //        Response.Cookies.Delete("search");
-        //    }
-
-        //    // Redirect to the Search action with an empty search string
-        //    return RedirectToAction("Search", new { search = "" });
-        //}
 
     }
 
