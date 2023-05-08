@@ -26,6 +26,27 @@ namespace MVCPractice.Services
         }
 
 
+        public CustomerRepository(IMongoDatabase database)
+        {
+            _customerCollection = database.GetCollection<Customer>("Customers");
+        }
+
+        public void InsertCustomer(Customer customer)
+        {
+            _customerCollection.InsertOne(customer);
+        }
+
+
+        public Customer GetCustomerById(string id)
+        {
+            return _customerCollection.Find(x => x.Id == id).FirstOrDefault();
+        }
+
+        public void UpdateCustomer(Customer customer)
+        {
+            _customerCollection.ReplaceOne(x => x.Id == customer.Id, customer);
+        }
+
         public void DeleteCustomer(string id)
         {
             GetMongoCollection().DeleteOne(x => x.Id == id);

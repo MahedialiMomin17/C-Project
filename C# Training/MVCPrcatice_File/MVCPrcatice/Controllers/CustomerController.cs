@@ -53,10 +53,13 @@ namespace MVCPrcatice.Controllers
         }
 
 
+        
+
         // GET: Customer
         public ActionResult Index()
         {
-            //for (int i = 0; i < 100; i++)
+
+            //for (int i = 0; i < 300; i++)
             //{
             //    var user = new Customer()
             //    {
@@ -64,7 +67,7 @@ namespace MVCPrcatice.Controllers
             //        City = "Daman",
             //        Email = "mahediali_" + i.ToString() + "@gmail.com",
             //        Phone = "873501" + i + i + i,
-            //        FileName = "",
+            //        ImageUrl = "/minions.jpg"
             //    };
 
             //    GetMongoCollection().InsertOne(user);
@@ -100,8 +103,6 @@ namespace MVCPrcatice.Controllers
             return View();
         }
 
-
-
         // POST: Customer/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -124,7 +125,7 @@ namespace MVCPrcatice.Controllers
                     user.ImageUrl = fileName;
                 }
 
-                GetMongoCollection().InsertOne(user);
+                _customerRepository.InsertCustomer(user);
 
                 return RedirectToAction("Index");
             }
@@ -185,14 +186,13 @@ namespace MVCPrcatice.Controllers
         public ActionResult Edit(string id)
         {
             // Get a customer by Id from MongoDB
-            var customer = GetMongoCollection().Find(x => x.Id == id).FirstOrDefault();
-
+            var customer = _customerRepository.GetCustomerById(id);
             return View(customer);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(Customer customer, IFormFile file)
+        public ActionResult Edit(Customer customer, IFormFile file, CustomerRepository customerRepository)
         {
             try
             {
@@ -221,7 +221,8 @@ namespace MVCPrcatice.Controllers
                     customer.ImageUrl = GetMongoCollection().Find(x => x.Id == customer.Id).FirstOrDefault().ImageUrl;
                 }
                 // Update a customer in MongoDB
-                var updateResult = GetMongoCollection().ReplaceOne(x => x.Id == customer.Id, customer);
+                //var updateResult = GetMongoCollection().ReplaceOne(x => x.Id == customer.Id, customer);
+                customerRepository.UpdateCustomer(customer);
                 var objCacheKeys = MemoryCacheExtensions.GetKeys<string>(_memoryCache).Where(p => p.Contains("customer")).ToList();
                 foreach (var key in objCacheKeys)
                 {

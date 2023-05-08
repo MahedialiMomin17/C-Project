@@ -46,6 +46,7 @@
         <tr id= @item.Id>
             <td>
                 <img src="@Url.Content("~/ProfilePicture/" + item.ImageUrl)" style="width: 70px; height: 65px; object-fit: cover; border-radius: 24%;" />
+                @*<img src="@item.ImageUrl" style="width: 70px; height: 65px; object-fit: cover; border-radius: 24%;"/>*@
             </td>
 
             <td>
@@ -67,7 +68,7 @@
               <a href="@Url.Action("Edit", new { id = item.Id })" class="btn btn-primary">
                 <i class="fas fa-edit"></i> 
               </a>  
-               <a class="btn btn-danger delete-btn" data-id="@item.Id.ToString()">
+               <a  data-id="@item.Id" class="btn btn-danger delete-btn">
                <i class="fas fa-trash-alt"></i> 
               </a>
               <a href="@Url.Action("GetCustomer", new { id = item.Id })" class="btn btn-secondary open-modal">
@@ -113,13 +114,13 @@
 *@
 
 
-
+@*
    @section scripts{
 
-       @*<script src="~/js/site.min.js"></script>*@
+       <script src="~/js/site.min.js"></script>
 
 
-   }
+   }*@
 
 
 

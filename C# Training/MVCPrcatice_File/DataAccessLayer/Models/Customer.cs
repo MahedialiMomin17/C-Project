@@ -19,15 +19,17 @@ namespace MVCPrcatice.Models
         public string Name { get; set; }
 
 
+
         [Required(ErrorMessage = "Phone is required")]
         [RegularExpression(@"^\d{10}$", ErrorMessage = "Phone should be a 10-digit number")]
+        [StringLength(10, MinimumLength = 10, ErrorMessage = "Phone should be a 10-digit number")]
         public string Phone { get; set; }
 
 
 
         [Required(ErrorMessage = "Email is required")]
         [RegularExpression(@"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$", ErrorMessage = "Invalid email address")]
-        [Remote("IsEmailExist", "Customer", ErrorMessage = "Email Already Exist. Please choose another email.")]
+        [Remote("IsEmailExist", "Customer", AdditionalFields = "Id", ErrorMessage = "Email Already Exists. Please choose another email.")]
 
         public string Email { get; set; }
 
@@ -40,9 +42,29 @@ namespace MVCPrcatice.Models
         public string FileName { get; set; }
         public string ImageUrl { get; set; }
 
-        internal static object FirstOrDefault(Func<object, bool> value)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//internal static object FirstOrDefault(Func<object, bool> value)
+//{
+//    throw new NotImplementedException();
+//}
