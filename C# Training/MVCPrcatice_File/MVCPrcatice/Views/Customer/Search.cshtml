@@ -29,7 +29,7 @@
         <tr>
         
             <th>
-               <a href=""> ProfilePicture </a>
+                ProfilePicture
             </th> 
             <th>
                 <a href="@Url.Action("Search", new { page = Model.Page ,search=ViewBag.search,sortby="Name",orderby=ViewBag.orderby})">Name <i class="fas fa-sort"></i></a>
@@ -42,7 +42,8 @@
                 <a href="@Url.Action("Search", new { page = Model.Page ,search=ViewBag.search,sortby="Email",orderby=ViewBag.orderby})">Email <i class="fas fa-sort"></i></a>
             </th>
             <th>
-              <a href="@Url.Action("Search", new { page = Model.Page ,search=ViewBag.search,sortby=ViewBag.sortby,orderby=ViewBag.orderby})">City <i class="fas fa-sort"></i></a>
+              @*<a href="@Url.Action("Search", new { page = Model.Page ,search=ViewBag.search,sortby=ViewBag.sortby,orderby=ViewBag.orderby})">City</a>*@
+              City
             </th>
             <th></th>
         </tr>
@@ -90,6 +91,5 @@
 @section scripts {
    <script src="/path/to/reset.js"></script>
    <script src="~/js/site.min.js"></script>
-
 
 }

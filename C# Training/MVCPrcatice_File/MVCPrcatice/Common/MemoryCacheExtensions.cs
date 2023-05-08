@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Caching.Memory;
-using System.Reflection.Emit;
-using System.Reflection;
 using System.Collections;
+using System.Reflection;
+using System.Reflection.Emit;
 
 namespace CustomerManagement.Common
 {

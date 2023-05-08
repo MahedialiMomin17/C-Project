@@ -1,24 +1,13 @@
 ﻿using CommonLibrary;
-using MVCPractice.Models;
-using Microsoft.AspNetCore.Http;
+using CustomerManagement.Common;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using MVCPrcatice.Models;
-using MongoDB.Bson;
+using Microsoft.Extensions.Caching.Memory;
 using MongoDB.Driver;
+using MVCPractice.Services;
 using MVCPrcatice.Models;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using System;
-using System.IO;
 using System.Data;
-using System.Reflection;
 //using System.Web.Mvc;
 using ActionResult = Microsoft.AspNetCore.Mvc.ActionResult;
-using MVCPractice.Services;
-using Grpc.Core;
-using Microsoft.Extensions.Caching.Memory;
-using CustomerManagement.Common;
 
 namespace MVCPrcatice.Controllers
 {
@@ -67,7 +56,7 @@ namespace MVCPrcatice.Controllers
         // GET: Customer
         public ActionResult Index()
         {
-            //for(int i=0; i<; i++)
+            //for (int i = 0; i < 100; i++)
             //{
             //    var user = new Customer()
             //    {
@@ -77,16 +66,23 @@ namespace MVCPrcatice.Controllers
             //        Phone = "873501" + i + i + i,
             //        FileName = "",
             //    };
-            
+
             //    GetMongoCollection().InsertOne(user);
-                  
+
             //}
             // Get all customers from the repository
+            var objcache = _memoryCache.CreateEntry("Customers");
             var customers = _customerRepository.GetAllCustomers();
-
+            _memoryCache.Set(objcache, customers);
             return View(customers);
         }
 
+        public ActionResult ReachCacheKey()
+        {
+            var objcache = _memoryCache.CreateEntry("Customers");
+
+            return Ok(objcache);
+        }
 
 
 
@@ -94,13 +90,13 @@ namespace MVCPrcatice.Controllers
         public ActionResult Details(int id)
         {
             return View();
-        }   
+        }
 
 
         // GET: Customer/Create
         public ActionResult Create()
         {
-           
+
             return View();
         }
 
@@ -231,7 +227,7 @@ namespace MVCPrcatice.Controllers
                 {
                     _memoryCache.Remove(key);
                 }
-       
+
 
                 return RedirectToAction("Index");
             }
@@ -302,17 +298,19 @@ namespace MVCPrcatice.Controllers
         {
 
             var cookie = Request.Cookies["search"];
-            if(!string.IsNullOrEmpty(cookie) && string.IsNullOrEmpty(search)) 
+            if (!string.IsNullOrEmpty(cookie) && string.IsNullOrEmpty(search))
             {
                 search = cookie;
-            
+
             }
             var cacheKey = string.Format("customer_{0}_{1}_{2}_{3}", search, page, sortby, orderby);
 
             var objcustomers = _memoryCache.GetOrCreate(cacheKey, entry =>
             {
                 entry.SlidingExpiration = TimeSpan.FromMinutes(10);
-                return _customerRepository.SearchCustomer(search, sortby, orderby, page, pageSize: 100);
+                var result = _customerRepository.SearchCustomer(search, sortby, orderby, page, pageSize: 100);
+                result.Records = result.Records.OrderBy(c => c.Name, StringComparer.OrdinalIgnoreCase).ToList();
+                return result;
             });
 
             //var objcustomers = _customerRepository.SearchCustomer(search, sortby, orderby, page, pageSize: 250);

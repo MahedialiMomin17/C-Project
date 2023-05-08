@@ -1,15 +1,8 @@
 ﻿using CommonLibrary;
 using DataAccessLayer.Interface;
-using MVCPractice.Models;
 using MongoDB.Bson;
 using MongoDB.Driver;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using MVCPrcatice.Models;
-using Stripe;
+using MVCPractice.Models;
 using Customer = MVCPrcatice.Models.Customer;
 
 namespace MVCPractice.Services
