@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "MVCPrcatice/1.0.0": {
         "dependencies": {
+          "AspNetCore.Identity.MongoDbCore": "3.1.2",
           "BuildBundlerMinifier": "3.2.449",
           "CommonLibrary": "1.0.0",
           "DataAccessLayer": "1.0.0",
@@ -20,6 +21,20 @@
         },
         "runtime": {
           "MVCPrcatice.dll": {}
+        }
+      },
+      "AspNetCore.Identity.MongoDbCore/3.1.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Identity.Core": "3.1.12",
+          "Microsoft.Extensions.Identity.Stores": "3.1.12",
+          "MongoDB.Driver": "2.19.1",
+          "MongoDbGenericRepository": "1.4.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AspNetCore.Identity.MongoDbCore.dll": {
+            "assemblyVersion": "3.1.2.0",
+            "fileVersion": "3.1.2.0"
+          }
         }
       },
       "AWSSDK.Core/3.7.100.14": {
@@ -219,10 +234,15 @@
           "Microsoft.AspNetCore.Authorization": "2.2.0"
         }
       },
-      "Microsoft.AspNetCore.Cryptography.Internal/2.2.0": {},
+      "Microsoft.AspNetCore.Cryptography.Internal/3.1.12": {},
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/3.1.12": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "3.1.12"
+        }
+      },
       "Microsoft.AspNetCore.DataProtection/2.2.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Cryptography.Internal": "2.2.0",
+          "Microsoft.AspNetCore.Cryptography.Internal": "3.1.12",
           "Microsoft.AspNetCore.DataProtection.Abstractions": "2.2.0",
           "Microsoft.AspNetCore.Hosting.Abstractions": "2.2.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
@@ -1151,6 +1171,11 @@
           }
         }
       },
+      "Microsoft.Extensions.Caching.Abstractions/3.1.12": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "7.0.0"
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Configuration.Abstractions": "7.0.0",
@@ -1362,6 +1387,20 @@
             "assemblyVersion": "7.0.0.0",
             "fileVersion": "7.0.22.51805"
           }
+        }
+      },
+      "Microsoft.Extensions.Identity.Core/3.1.12": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "3.1.12",
+          "Microsoft.Extensions.Logging": "7.0.0",
+          "Microsoft.Extensions.Options": "7.0.1"
+        }
+      },
+      "Microsoft.Extensions.Identity.Stores/3.1.12": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "3.1.12",
+          "Microsoft.Extensions.Identity.Core": "3.1.12",
+          "Microsoft.Extensions.Logging": "7.0.0"
         }
       },
       "Microsoft.Extensions.Localization/2.2.0": {
@@ -1776,6 +1815,17 @@
             "rid": "win",
             "assetType": "native",
             "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "MongoDbGenericRepository/1.4.8": {
+        "dependencies": {
+          "MongoDB.Driver": "2.19.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MongoDbGenericRepository.dll": {
+            "assemblyVersion": "1.4.8.0",
+            "fileVersion": "1.4.8.0"
           }
         }
       },
@@ -2885,6 +2935,7 @@
       },
       "DataAccessLayer/1.0.0": {
         "dependencies": {
+          "AspNetCore.Identity.MongoDbCore": "3.1.2",
           "CommonLibrary": "1.0.0",
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
           "Microsoft.Extensions.Configuration.Json": "7.0.0",
@@ -2902,6 +2953,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AspNetCore.Identity.MongoDbCore/3.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ichSW3Vs51f+Ol7Ska1jIOlKc+i2Am3UeNvGhhIb59MXOKyhZGpyulUnFdN62IpP779EkLrLf3ZMwSZ2bVgY+g==",
+      "path": "aspnetcore.identity.mongodbcore/3.1.2",
+      "hashPath": "aspnetcore.identity.mongodbcore.3.1.2.nupkg.sha512"
     },
     "AWSSDK.Core/3.7.100.14": {
       "type": "package",
@@ -3029,12 +3087,19 @@
       "path": "microsoft.aspnetcore.authorization.policy/2.2.0",
       "hashPath": "microsoft.aspnetcore.authorization.policy.2.2.0.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Cryptography.Internal/2.2.0": {
+    "Microsoft.AspNetCore.Cryptography.Internal/3.1.12": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-GXmMD8/vuTLPLvKzKEPz/4vapC5e0cwx1tUVd83ePRyWF9CCrn/pg4/1I+tGkQqFLPvi3nlI2QtPtC6MQN8Nww==",
-      "path": "microsoft.aspnetcore.cryptography.internal/2.2.0",
-      "hashPath": "microsoft.aspnetcore.cryptography.internal.2.2.0.nupkg.sha512"
+      "sha512": "sha512-9V7Acx9lFw2KA23FOqH4TH5wQzZN/px/ovmRWBb8I3rf9arZ/cKniwRmRNrwgmShtQXhu1t124rrl1du2ueODA==",
+      "path": "microsoft.aspnetcore.cryptography.internal/3.1.12",
+      "hashPath": "microsoft.aspnetcore.cryptography.internal.3.1.12.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Cryptography.KeyDerivation/3.1.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LNaiyMe0J8kkXglqtmE3wK1xu3ofvKh1WTVmJs0yl/uFfo9Vbr6lSyZ0k+5sTUxuIS1WU6dHe4nO0ikRlXq6CQ==",
+      "path": "microsoft.aspnetcore.cryptography.keyderivation/3.1.12",
+      "hashPath": "microsoft.aspnetcore.cryptography.keyderivation.3.1.12.nupkg.sha512"
     },
     "Microsoft.AspNetCore.DataProtection/2.2.0": {
       "type": "package",
@@ -3337,6 +3402,13 @@
       "path": "microsoft.dotnet.scaffolding.shared/6.0.13",
       "hashPath": "microsoft.dotnet.scaffolding.shared.6.0.13.nupkg.sha512"
     },
+    "Microsoft.Extensions.Caching.Abstractions/3.1.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KOt2+vIFZ56zBEG2jgZWBjvxL4MSXBUV7npESYT7qAAABBywlJEa2pVvkbElBwOovLC/Q3cO1YcBc9OQc+dbxw==",
+      "path": "microsoft.extensions.caching.abstractions/3.1.12",
+      "hashPath": "microsoft.extensions.caching.abstractions.3.1.12.nupkg.sha512"
+    },
     "Microsoft.Extensions.Configuration/7.0.0": {
       "type": "package",
       "serviceable": true,
@@ -3448,6 +3520,20 @@
       "sha512": "sha512-43n9Je09z0p/7ViPxfRqs5BUItRLNVh5b6JH40F2Agkh2NBsY/jpNYTtbCcxrHCsA3oRmbR6RJBzUutB4VZvNQ==",
       "path": "microsoft.extensions.hosting.abstractions/7.0.0",
       "hashPath": "microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Identity.Core/3.1.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MRNaIsE3PdT24+6cWxJhiyfTY3Eoncr/m+5nW3NtBjPQXhJKECGNdquh5EH5KwNaYls2KI53znl7KD4pWMkKyw==",
+      "path": "microsoft.extensions.identity.core/3.1.12",
+      "hashPath": "microsoft.extensions.identity.core.3.1.12.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Identity.Stores/3.1.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xQOIvN3nFJ0ptl/qnozFJPzfY/TxrJFr9k/EPJkqHZx8jtzlGJ4mqvgknau0AunW25uXyT+O6co3AJ4B4OKcRQ==",
+      "path": "microsoft.extensions.identity.stores/3.1.12",
+      "hashPath": "microsoft.extensions.identity.stores.3.1.12.nupkg.sha512"
     },
     "Microsoft.Extensions.Localization/2.2.0": {
       "type": "package",
@@ -3686,6 +3772,13 @@
       "sha512": "sha512-p9+peTZX63nGHskOLhvhfBtrknxNg1RzXepE07rPozuCGz27bMjCcQyvn2YByg0L3YEcNWdTmI4BlnG/5RF+5Q==",
       "path": "mongodb.libmongocrypt/1.7.0",
       "hashPath": "mongodb.libmongocrypt.1.7.0.nupkg.sha512"
+    },
+    "MongoDbGenericRepository/1.4.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+cogUUMvXjnc8JUvDwnWitNAKRU7BrOleILH2AeLQnZ/WZNvocRw2PLNBIBlXyBdf3Nt2UtByL12d2lPGwP+VQ==",
+      "path": "mongodbgenericrepository/1.4.8",
+      "hashPath": "mongodbgenericrepository.1.4.8.nupkg.sha512"
     },
     "NETStandard.Library/1.6.1": {
       "type": "package",

@@ -5,11 +5,10 @@ using System.ComponentModel.DataAnnotations;
 
 namespace MVCPrcatice.Models
 {
-    public class Customer
+    public class Customer 
     {
-
-        [BsonRepresentation(BsonType.ObjectId)]
         [BsonId]
+        [BsonRepresentation(BsonType.ObjectId)]     
         public string Id { get; set; }
 
 

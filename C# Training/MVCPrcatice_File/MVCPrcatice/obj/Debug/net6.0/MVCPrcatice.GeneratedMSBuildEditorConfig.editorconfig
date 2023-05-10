@@ -16,6 +16,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\MVCPrcatice
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGVSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/Roles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSb2xlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

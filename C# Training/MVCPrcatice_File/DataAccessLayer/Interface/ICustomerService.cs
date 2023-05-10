@@ -7,7 +7,7 @@ namespace DataAccessLayer.Interface
     public interface ICustomerService
     {
 
-        IEnumerable<Customer> GetAllCustomers();
+        List<Customer> GetAllCustomers();
 
         void InsertCustomer(Customer customer);
 

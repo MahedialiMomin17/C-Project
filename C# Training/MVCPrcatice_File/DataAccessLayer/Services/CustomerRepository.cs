@@ -19,11 +19,27 @@ namespace MVCPractice.Services
         }
 
 
-        public IEnumerable<Customer> GetAllCustomers()
+        //public List<Customer> GetAllCustomers()
+        //{
+        //    var customers = _customerCollection.Find(Builders<Customer>.Filter.Empty).ToList();
+        //    return customers;
+        //}
+
+        public List<Customer> GetAllCustomers()
         {
-            var customers = _customerCollection.Find(Builders<Customer>.Filter.Empty).ToList();
-            return customers;
+            return _customerCollection.Find(x => true).ToList();
         }
+
+
+        //public IEnumerable<Customer> GetAllCustomers()
+        //{
+        //    var customers = _customerCollection.Find(Builders<Customer>.Filter.Empty).ToList();
+        //    return customers.Select(c =>
+        //    {
+        //        c.Id = c.Id.ToString(); // Convert ObjectId to string
+        //        return c;
+        //    });
+        //}
 
 
         public CustomerRepository(IMongoDatabase database)
@@ -42,6 +58,12 @@ namespace MVCPractice.Services
             return _customerCollection.Find(x => x.Id == id).FirstOrDefault();
         }
 
+        //public Customer GetCustomerById(string id)
+        //{
+        //    var objectId = ObjectId.Parse(id);
+        //    return _customerCollection.Find(x => x.Id == objectId).FirstOrDefault();
+        //}
+
         public void UpdateCustomer(Customer customer)
         {
             _customerCollection.ReplaceOne(x => x.Id == customer.Id, customer);
@@ -51,6 +73,12 @@ namespace MVCPractice.Services
         {
             GetMongoCollection().DeleteOne(x => x.Id == id);
         }
+
+        //public void DeleteCustomer(string id)
+        //{
+        //    var objectId = ObjectId.Parse(id);
+        //    GetMongoCollection().DeleteOne(x => x.Id == objectId);
+        //}
 
         private IMongoCollection<Customer> GetMongoCollection()
         {

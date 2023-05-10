@@ -1,6 +1,19 @@
+using CommonLibrary;
 using MVCPractice.Services;
+using Microsoft.AspNetCore.Identity;
+using MVCPrcatice.Models;
+using AspNetCore.Identity.MongoDbCore.Infrastructure;
+using MongoDB.Bson;
 
 var builder = WebApplication.CreateBuilder(args);
+
+var connectionString = AppConfiguration.connectionString;
+var databaseName = AppConfiguration.databaseName;
+
+builder.Services.AddIdentity<ApplicationUser, ApplicationRole>()
+       .AddMongoDbStores<ApplicationUser, ApplicationRole, Guid>
+       (connectionString, databaseName);
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -27,6 +40,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

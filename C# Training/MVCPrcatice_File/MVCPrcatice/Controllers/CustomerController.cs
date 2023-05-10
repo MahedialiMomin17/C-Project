@@ -1,7 +1,9 @@
 ﻿using CommonLibrary;
 using CustomerManagement.Common;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Memory;
+using MongoDB.Bson;
 using MongoDB.Driver;
 using MVCPractice.Services;
 using MVCPrcatice.Models;
@@ -53,31 +55,36 @@ namespace MVCPrcatice.Controllers
         }
 
 
-        
 
+        //[Authorize (Roles = "Employee")]
         // GET: Customer
         public ActionResult Index()
         {
+            // Check if the current user is in the "Employee" role
+            if (User.IsInRole("Employee"))
+            {
+                var objcache = _memoryCache.CreateEntry("Customers");
+                var customers = _customerRepository.GetAllCustomers();
+                _memoryCache.Set(objcache, customers);
+                return View(customers);
+            }
 
-            //for (int i = 0; i < 300; i++)
-            //{
-            //    var user = new Customer()
-            //    {
-            //        Name = "momin",
-            //        City = "Daman",
-            //        Email = "mahediali_" + i.ToString() + "@gmail.com",
-            //        Phone = "873501" + i + i + i,
-            //        ImageUrl = "/minions.jpg"
-            //    };
+                //for (int i = 0; i < 300; i++)
+                //{
+                //    var user = new Customer()
+                //    {
+                //        Name = "momin",
+                //        City = "Daman",
+                //        Email = "mahediali_" + i.ToString() + "@gmail.com",
+                //        Phone = "873501" + i + i + i,
+                //        ImageUrl = "/minions.jpg"
+                //    };
 
-            //    GetMongoCollection().InsertOne(user);
+                //    GetMongoCollection().InsertOne(user);
 
-            //}
-            // Get all customers from the repository
-            var objcache = _memoryCache.CreateEntry("Customers");
-            var customers = _customerRepository.GetAllCustomers();
-            _memoryCache.Set(objcache, customers);
-            return View(customers);
+                //}
+                // Get all customers from the repository
+               return View("Unauthorized");
         }
 
         public ActionResult ReachCacheKey()
@@ -247,9 +254,9 @@ namespace MVCPrcatice.Controllers
 
 
         // GET: Customer/Delete/5
-        public ActionResult Delete(string id)
+        public ActionResult delete(string id)
         {
-            // Find the customer by ObjectId from MongoDB
+            // find the customer by objectid from mongodb
             var customer = GetMongoCollection().Find(x => x.Id == id).FirstOrDefault();
 
             if (customer == null)
@@ -260,6 +267,24 @@ namespace MVCPrcatice.Controllers
 
             return View(customer);
         }
+
+
+        //public ActionResult Delete(string id)
+        //{
+        //    var objectId = ObjectId.Parse(id);
+
+        //    // Find the customer by ObjectId from MongoDB
+        //    var customer = GetMongoCollection().Find(x => x.Id == objectId).FirstOrDefault();
+
+        //    if (customer == null)
+        //    {
+        //        return NotFound();
+        //    }
+
+        //    return View(customer);
+        //}
+
+
 
         // POST: Customer/Delete/5
         [HttpPost]
@@ -292,6 +317,18 @@ namespace MVCPrcatice.Controllers
             }
             return PartialView("CreateEditCustomer", customer);
         }
+
+        //public ActionResult GetCustomer(string id)
+        //{
+        //    var objectId = ObjectId.Parse(id);
+
+        //    var customer = GetMongoCollection().Find(c => c.Id == objectId).FirstOrDefault();
+        //    if (customer == null)
+        //    {
+        //        customer = new Customer();
+        //    }
+        //    return PartialView("CreateEditCustomer", customer);
+        //}
 
 
 
