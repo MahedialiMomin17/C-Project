@@ -111,14 +111,25 @@ namespace MVCPrcatice.Controllers
             return RedirectToAction("Index", "Home");
         }
 
+
+
+        [Authorize(Roles = "Admin")]
         public ActionResult Roles()
         {
             var objRoles = _roleManager.Roles.ToList();
             return View(objRoles);
         }
 
-        public ActionResult CreateRole() => View();
+
+        [Authorize(Roles = "Admin")]
+        public ActionResult CreateRole()
+        {
+            return View();
+        }
+
+
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public ActionResult CreateRole(RoleViewModel model)
         {
 

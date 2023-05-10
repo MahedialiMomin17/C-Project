@@ -55,36 +55,31 @@ namespace MVCPrcatice.Controllers
         }
 
 
-
-        //[Authorize (Roles = "Employee")]
         // GET: Customer
+        [Authorize(Roles = "Admin,Employee,Editor")]
         public ActionResult Index()
         {
-            // Check if the current user is in the "Employee" role
-            if (User.IsInRole("Employee"))
-            {
-                var objcache = _memoryCache.CreateEntry("Customers");
-                var customers = _customerRepository.GetAllCustomers();
-                _memoryCache.Set(objcache, customers);
-                return View(customers);
-            }
 
-                //for (int i = 0; i < 300; i++)
-                //{
-                //    var user = new Customer()
-                //    {
-                //        Name = "momin",
-                //        City = "Daman",
-                //        Email = "mahediali_" + i.ToString() + "@gmail.com",
-                //        Phone = "873501" + i + i + i,
-                //        ImageUrl = "/minions.jpg"
-                //    };
+            //for (int i = 0; i < 300; i++)
+            //{
+            //    var user = new Customer()
+            //    {
+            //        Name = "momin",
+            //        City = "Daman",
+            //        Email = "mahediali_" + i.ToString() + "@gmail.com",
+            //        Phone = "873501" + i + i + i,
+            //        ImageUrl = "/minions.jpg"
+            //    };
 
-                //    GetMongoCollection().InsertOne(user);
+            //    GetMongoCollection().InsertOne(user);
 
-                //}
-                // Get all customers from the repository
-               return View("Unauthorized");
+            //}
+            // Get all customers from the repository
+            var objcache = _memoryCache.CreateEntry("Customers");
+            var customers = _customerRepository.GetAllCustomers();
+            _memoryCache.Set(objcache, customers);
+            return View(customers);
+
         }
 
         public ActionResult ReachCacheKey()
@@ -104,6 +99,7 @@ namespace MVCPrcatice.Controllers
 
 
         // GET: Customer/Create
+        [Authorize(Roles = "Editor,Admin")]
         public ActionResult Create()
         {
 
@@ -113,6 +109,7 @@ namespace MVCPrcatice.Controllers
         // POST: Customer/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Editor, Admin")]
         public ActionResult Create(Customer user)
         {
             try
@@ -190,6 +187,7 @@ namespace MVCPrcatice.Controllers
 
 
         // GET: Customer/Edit/5
+        [Authorize(Roles = "Editor,Admin")]
         public ActionResult Edit(string id)
         {
             // Get a customer by Id from MongoDB
@@ -199,6 +197,7 @@ namespace MVCPrcatice.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Editor,Admin")]
         public ActionResult Edit(Customer customer, IFormFile file, CustomerRepository customerRepository)
         {
             try
@@ -254,6 +253,7 @@ namespace MVCPrcatice.Controllers
 
 
         // GET: Customer/Delete/5
+        [Authorize(Roles = "Editor,Admin")]
         public ActionResult delete(string id)
         {
             // find the customer by objectid from mongodb
@@ -289,6 +289,7 @@ namespace MVCPrcatice.Controllers
         // POST: Customer/Delete/5
         [HttpPost]
         //[ValidateAntiForgeryToken]
+        [Authorize(Roles = "Editor,Admin")]
         public ActionResult Delete(string id, IFormCollection collection)
         {
             try
