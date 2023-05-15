@@ -109,7 +109,7 @@ namespace MVCPrcatice.Controllers
         // POST: Customer/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        [Authorize(Roles = "Editor, Admin")]
+        [Authorize(Roles = "Editor,Admin")]
         public ActionResult Create(Customer user)
         {
             try
@@ -332,7 +332,8 @@ namespace MVCPrcatice.Controllers
         //}
 
 
-
+        [Authorize(Roles = "Editor,Admin")]
+        //[Authorize(Roles = "Admin,Employee,Editor")]
         public ActionResult Search(string search, int page = 1, string sortby = "name", string orderby = "asc")
         {
 
@@ -366,6 +367,27 @@ namespace MVCPrcatice.Controllers
             //_contextAccessor.HttpContext.Response.Cookies.Append("Customer", Newtonsoft.Json.JsonConvert.SerializeObject(objcustomers), options);
             //_contextAccessor.HttpContext.Response.Cookies.Append("Mahediali", "Mahediali@gmail.com", options);
 
+
+
+            //inserting customer into the mongodb collection
+            //for (int i = 0; i < 300; i++)
+            //{
+            //    var user = new Customer()
+            //    {
+            //        Name = "momin",
+            //        City = "Daman",
+            //        Email = "mahediali_" + i.ToString() + "@gmail.com",
+            //        Phone = "873501" + i + i + i,
+            //        ImageUrl = "/minions.jpg"
+            //    };
+            //    GetMongoCollection().InsertOne(user);
+            //}
+
+            // Get all customers from the repository
+            //var objcache = _memoryCache.CreateEntry("Customers");
+            //var customers = _customerRepository.GetAllCustomers();
+            //_memoryCache.Set(objcache, customers);
+
             return View(objcustomers);
         }
 
@@ -386,6 +408,14 @@ namespace MVCPrcatice.Controllers
             _contextAccessor.HttpContext.Response.Cookies.Append("Mahediali", "", options);
             return Json("Delete");
 
+        }
+
+
+        [HttpGet]
+        [AllowAnonymous]
+        public IActionResult AccessDenied()
+        {
+            return View();
         }
 
     }

@@ -1,0 +1,77 @@
+﻿@model List<MVCPrcatice.Models.ApplicationUser>
+
+@{
+    ViewData["Title"] = "User";
+}
+
+<h1>User</h1>
+
+@*<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>*@
+<table class="table">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Role</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            var roleId = "";
+            if(item.Roles != null && item.Roles.Count > 0)
+            {
+                roleId = item.Roles.FirstOrDefault().ToString();
+            }
+            <tr>
+             <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.PhoneNumber)
+            </td>
+           @* <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>*@
+            @* <td>
+                <select class="form-select select-action" data-id="@item.Id">
+                    <option value="Admin">Admin</option>
+                    <option value="Employee">Employee</option>
+                    <option value="Editor">Editor</option>
+                </select>
+            </td>*@
+
+            <td>
+                <select class="form-select select-action" data-id="@item.Id">
+                    <option value="">Select Role</option>
+                    @foreach(var role in ViewBag.Roles)
+                        {
+                            if (roleId == role.Value)
+                            {
+                                <option value="@role.Text" selected>@role.Text</option>
+                            }
+                            else
+                            {
+                                <option value="@role.Text">@role.Text</option>
+                                
+                            }
+                        }
+                    </select>
+            </td>
+           
+
+        </tr>
+}
+    </tbody>
+</table>

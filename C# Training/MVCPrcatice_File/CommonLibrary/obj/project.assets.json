@@ -951,11 +951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj",
+      "projectUniqueName": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj",
       "projectName": "CommonLibrary",
-      "projectPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj",
+      "projectPath": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\obj\\",
+      "outputPath": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

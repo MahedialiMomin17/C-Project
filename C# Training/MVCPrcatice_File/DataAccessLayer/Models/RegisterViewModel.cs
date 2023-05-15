@@ -28,10 +28,10 @@ namespace DataAccessLayer.Models
 
         public string PhoneNumber { get; set; }
 
-        [DisplayName("Role")]
-        public string RoleId { get; set; }
+        //[DisplayName("Role")]
+        //public string RoleId { get; set; }
 
-        //public List<SelectListItem> Roles { get; set; } 
+        //public List<SelectListItem> Roles { get; set; }
 
     }
 
@@ -50,5 +50,6 @@ namespace DataAccessLayer.Models
         public string Name { get; set; }
         [Required]
         public string Description { get; set; }
+
     }
 }

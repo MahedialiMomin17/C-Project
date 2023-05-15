@@ -1,503 +1,515 @@
 {
   "Files": [
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCPrcatice.bundle.scp.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCPrcatice.bundle.scp.css",
       "PackagePath": "staticwebassets\\MVCPrcatice.bundle.scp.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\097ca5c7-5150-4e7c-b280-014e68a03b92.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\097ca5c7-5150-4e7c-b280-014e68a03b92.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\097ca5c7-5150-4e7c-b280-014e68a03b92.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\32b0d709-24c5-4f32-8f90-36eec497efb3.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\32b0d709-24c5-4f32-8f90-36eec497efb3.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\32b0d709-24c5-4f32-8f90-36eec497efb3.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\342f9658-c97d-418e-a6f3-8ce661ef17a4.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\342f9658-c97d-418e-a6f3-8ce661ef17a4.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\342f9658-c97d-418e-a6f3-8ce661ef17a4.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\60806f57-0993-43a5-a861-c652da1e4c5e.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\401-Unauthorized-Error.jpg",
+      "PackagePath": "staticwebassets\\ProfilePicture\\401-Unauthorized-Error.jpg"
+    },
+    {
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\60806f57-0993-43a5-a861-c652da1e4c5e.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\60806f57-0993-43a5-a861-c652da1e4c5e.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\6d7529d5-4a00-4bec-a99a-0ac6c36723a0.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\6d7529d5-4a00-4bec-a99a-0ac6c36723a0.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\6d7529d5-4a00-4bec-a99a-0ac6c36723a0.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\6eb65d85-e56d-484f-9d9f-dc0ce2ca202a.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\6eb65d85-e56d-484f-9d9f-dc0ce2ca202a.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\6eb65d85-e56d-484f-9d9f-dc0ce2ca202a.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\9399059d-2503-4669-aa5b-56d923258858.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\9399059d-2503-4669-aa5b-56d923258858.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\9399059d-2503-4669-aa5b-56d923258858.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\96ab6621-37a9-4b80-b8b6-fa974c0b912b.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\96ab6621-37a9-4b80-b8b6-fa974c0b912b.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\96ab6621-37a9-4b80-b8b6-fa974c0b912b.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\a188ddb4-e22e-45a3-959c-3eecbe5b61b0.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\Unauthorize.webp",
+      "PackagePath": "staticwebassets\\ProfilePicture\\Unauthorize.webp"
+    },
+    {
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\a188ddb4-e22e-45a3-959c-3eecbe5b61b0.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\a188ddb4-e22e-45a3-959c-3eecbe5b61b0.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\aeea4353-84b2-4e3d-9312-402274e08614.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\aeea4353-84b2-4e3d-9312-402274e08614.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\aeea4353-84b2-4e3d-9312-402274e08614.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\b30f01a9-a031-42ff-8ce8-8e1553d7c4ba.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\b30f01a9-a031-42ff-8ce8-8e1553d7c4ba.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\b30f01a9-a031-42ff-8ce8-8e1553d7c4ba.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\c5fec162-70d3-48a5-a5c4-7aa9cad943fa.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\c5fec162-70d3-48a5-a5c4-7aa9cad943fa.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\c5fec162-70d3-48a5-a5c4-7aa9cad943fa.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\cca6684c-2e0a-4d97-833d-7b9b9862556d.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\cca6684c-2e0a-4d97-833d-7b9b9862556d.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\cca6684c-2e0a-4d97-833d-7b9b9862556d.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\d0029b6a-bbcd-4154-9d59-6142dd2fe9fd.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\customers.csv",
+      "PackagePath": "staticwebassets\\ProfilePicture\\customers.csv"
+    },
+    {
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\d0029b6a-bbcd-4154-9d59-6142dd2fe9fd.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\d0029b6a-bbcd-4154-9d59-6142dd2fe9fd.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\d48b1690-5977-4906-8416-4fb98582125a.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\d48b1690-5977-4906-8416-4fb98582125a.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\d48b1690-5977-4906-8416-4fb98582125a.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\e0e64c70-edf8-48ea-8b43-e56e9c6c5020.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\e0e64c70-edf8-48ea-8b43-e56e9c6c5020.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\e0e64c70-edf8-48ea-8b43-e56e9c6c5020.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\minions.jpg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\minions.jpg",
       "PackagePath": "staticwebassets\\ProfilePicture\\minions.jpg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\css\\CustomStyle.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\css\\CustomStyle.css",
       "PackagePath": "staticwebassets\\css\\CustomStyle.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\css\\site.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\css\\site.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\css\\site.min.css",
       "PackagePath": "staticwebassets\\css\\site.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\favicon.ico",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\js\\CustomScript.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\js\\CustomScript.js",
       "PackagePath": "staticwebassets\\js\\CustomScript.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\js\\site.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\js\\site.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\js\\site.min.js",
       "PackagePath": "staticwebassets\\js\\site.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\all.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\brands.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\regular.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\solid.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.min.css"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\all.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\brands.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\regular.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\solid.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

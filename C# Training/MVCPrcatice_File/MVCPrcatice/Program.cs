@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Identity;
 using MVCPrcatice.Models;
 using AspNetCore.Identity.MongoDbCore.Infrastructure;
 using MongoDB.Bson;
+using Stripe;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,6 +26,19 @@ builder.Services.AddMemoryCache();
 //builder.Services.AddScoped<ICustomerService, CustomerRepository>();
 
 
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("AccessDenied", policy =>
+        policy.RequireAuthenticatedUser()
+              .RequireRole("Admin")); // You can modify this policy as per your requirements
+});
+
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.AccessDeniedPath = new PathString("/Customer/AccessDenied");
+});
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -43,8 +57,10 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 
+//app.UseStatusCodePagesWithReExecute("/Error/{0}");
+
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Customer}/{action=Index}/{id?}");
 
 app.Run();

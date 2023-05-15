@@ -11,5 +11,6 @@ namespace MVCPrcatice.Models
     {
 
         public string Description { get; set; }
+        public string RoleId { get; set; }
     }
 }

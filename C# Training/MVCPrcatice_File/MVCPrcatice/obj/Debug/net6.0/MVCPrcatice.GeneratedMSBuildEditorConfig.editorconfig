@@ -9,85 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVCPrcatice
 build_property.RootNamespace = MVCPrcatice
-build_property.ProjectDir = D:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\MVCPrcatice\
+build_property.ProjectDir = E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\MVCPrcatice\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\MVCPrcatice
+build_property.MSBuildProjectDirectory = E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\MVCPrcatice
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/CreateRole.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/CreateRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGVSb2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/Login.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/DeleteRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZWxldGVSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/EditRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0Um9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/Register.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/Roles.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/Roles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSb2xlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/Create.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Account/User.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/CreateEditCustomer.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/CreateEditCustomer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlRWRpdEN1c3RvbWVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/Delete.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/Edit.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/Index.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/Search.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Customer/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcU2VhcmNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Home/Index.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Home/Privacy.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Shared/EditorTemplates/SelectBox.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Shared/EditorTemplates/SelectBox.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xTZWxlY3RCb3guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Shared/EditorTemplates/String.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Shared/EditorTemplates/String.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xTdHJpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Shared/Error.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/_ViewImports.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/_ViewStart.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Shared/_Layout.cshtml]
+[E:/C\# Mahediali_GIT/C\# Training/MVCPrcatice_File/MVCPrcatice/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-85zu0j1jpv

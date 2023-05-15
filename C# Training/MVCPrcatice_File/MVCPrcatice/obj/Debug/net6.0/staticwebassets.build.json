@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "u7/ja45Yi7jDoF93lf8H97QbV8WQml7NjBDUdnND2OM=",
+  "Hash": "TSPwy54hwae/JEAEAvFaAx7gdj0zIrWcPbn5IYg01Ko=",
   "Source": "MVCPrcatice",
   "BasePath": "_content/MVCPrcatice",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MVCPrcatice\\wwwroot",
       "Source": "MVCPrcatice",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MVCPrcatice.styles.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MVCPrcatice.styles.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "MVCPrcatice.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MVCPrcatice.styles.css"
+      "OriginalItemSpec": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MVCPrcatice.styles.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCPrcatice.bundle.scp.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCPrcatice.bundle.scp.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "MVCPrcatice.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCPrcatice.bundle.scp.css"
+      "OriginalItemSpec": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCPrcatice.bundle.scp.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\css\\CustomStyle.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\css\\CustomStyle.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "css/CustomStyle.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\CustomStyle.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\css\\site.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\css\\site.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\css\\site.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\css\\site.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\favicon.ico",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\favicon.ico",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\js\\CustomScript.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\js\\CustomScript.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "js/CustomScript.js",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\js\\CustomScript.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\js\\site.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\js\\site.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\js\\site.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\js\\site.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "js/site.min.js",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\all.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/all.css",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\all.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/all.min.css",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\all.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\brands.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/brands.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\brands.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/brands.min.css",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\brands.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/fontawesome.css",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\fontawesome.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/fontawesome.min.css",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\regular.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/regular.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\regular.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/regular.min.css",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\regular.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\solid.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/solid.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\solid.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/solid.min.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\solid.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/svg-with-js.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\svg-with-js.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/svg-with-js.min.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/v4-font-face.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-font-face.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/v4-font-face.min.css",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/v4-shims.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-shims.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/v4-shims.min.css",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/v5-font-face.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v5-font-face.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/css/v5-font-face.min.css",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\all.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/all.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\all.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/all.min.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\all.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\brands.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/brands.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\brands.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/brands.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\brands.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/conflict-detection.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\conflict-detection.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/conflict-detection.min.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/fontawesome.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\fontawesome.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/fontawesome.min.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\regular.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/regular.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\regular.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/regular.min.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\regular.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\solid.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/solid.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\solid.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/solid.min.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\solid.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/v4-shims.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\v4-shims.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/js/v4-shims.min.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/sprites/brands.svg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\brands.svg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/sprites/regular.svg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\regular.svg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/sprites/solid.svg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\solid.svg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/webfonts/fa-v4compatibility.ttf",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/font-awesome/webfonts/fa-v4compatibility.woff2",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\097ca5c7-5150-4e7c-b280-014e68a03b92.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\097ca5c7-5150-4e7c-b280-014e68a03b92.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/097ca5c7-5150-4e7c-b280-014e68a03b92.jpg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\097ca5c7-5150-4e7c-b280-014e68a03b92.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\32b0d709-24c5-4f32-8f90-36eec497efb3.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\32b0d709-24c5-4f32-8f90-36eec497efb3.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/32b0d709-24c5-4f32-8f90-36eec497efb3.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\32b0d709-24c5-4f32-8f90-36eec497efb3.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\342f9658-c97d-418e-a6f3-8ce661ef17a4.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\342f9658-c97d-418e-a6f3-8ce661ef17a4.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/342f9658-c97d-418e-a6f3-8ce661ef17a4.jpg",
       "AssetKind": "All",
@@ -1921,10 +1921,27 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\342f9658-c97d-418e-a6f3-8ce661ef17a4.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\60806f57-0993-43a5-a861-c652da1e4c5e.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\401-Unauthorized-Error.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "BasePath": "_content/MVCPrcatice",
+      "RelativePath": "ProfilePicture/401-Unauthorized-Error.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProfilePicture\\401-Unauthorized-Error.jpg"
+    },
+    {
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\60806f57-0993-43a5-a861-c652da1e4c5e.jpg",
+      "SourceId": "MVCPrcatice",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/60806f57-0993-43a5-a861-c652da1e4c5e.jpg",
       "AssetKind": "All",
@@ -1938,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\60806f57-0993-43a5-a861-c652da1e4c5e.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\6d7529d5-4a00-4bec-a99a-0ac6c36723a0.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\6d7529d5-4a00-4bec-a99a-0ac6c36723a0.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/6d7529d5-4a00-4bec-a99a-0ac6c36723a0.jpg",
       "AssetKind": "All",
@@ -1955,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\6d7529d5-4a00-4bec-a99a-0ac6c36723a0.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\6eb65d85-e56d-484f-9d9f-dc0ce2ca202a.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\6eb65d85-e56d-484f-9d9f-dc0ce2ca202a.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/6eb65d85-e56d-484f-9d9f-dc0ce2ca202a.jpg",
       "AssetKind": "All",
@@ -1972,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\6eb65d85-e56d-484f-9d9f-dc0ce2ca202a.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\9399059d-2503-4669-aa5b-56d923258858.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\9399059d-2503-4669-aa5b-56d923258858.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/9399059d-2503-4669-aa5b-56d923258858.jpg",
       "AssetKind": "All",
@@ -1989,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\9399059d-2503-4669-aa5b-56d923258858.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\96ab6621-37a9-4b80-b8b6-fa974c0b912b.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\96ab6621-37a9-4b80-b8b6-fa974c0b912b.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/96ab6621-37a9-4b80-b8b6-fa974c0b912b.jpg",
       "AssetKind": "All",
@@ -2006,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\96ab6621-37a9-4b80-b8b6-fa974c0b912b.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\a188ddb4-e22e-45a3-959c-3eecbe5b61b0.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\a188ddb4-e22e-45a3-959c-3eecbe5b61b0.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/a188ddb4-e22e-45a3-959c-3eecbe5b61b0.jpg",
       "AssetKind": "All",
@@ -2023,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\a188ddb4-e22e-45a3-959c-3eecbe5b61b0.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\aeea4353-84b2-4e3d-9312-402274e08614.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\aeea4353-84b2-4e3d-9312-402274e08614.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/aeea4353-84b2-4e3d-9312-402274e08614.jpg",
       "AssetKind": "All",
@@ -2040,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\aeea4353-84b2-4e3d-9312-402274e08614.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\b30f01a9-a031-42ff-8ce8-8e1553d7c4ba.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\b30f01a9-a031-42ff-8ce8-8e1553d7c4ba.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/b30f01a9-a031-42ff-8ce8-8e1553d7c4ba.jpg",
       "AssetKind": "All",
@@ -2057,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\b30f01a9-a031-42ff-8ce8-8e1553d7c4ba.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\c5fec162-70d3-48a5-a5c4-7aa9cad943fa.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\c5fec162-70d3-48a5-a5c4-7aa9cad943fa.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/c5fec162-70d3-48a5-a5c4-7aa9cad943fa.jpg",
       "AssetKind": "All",
@@ -2074,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\c5fec162-70d3-48a5-a5c4-7aa9cad943fa.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\cca6684c-2e0a-4d97-833d-7b9b9862556d.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\cca6684c-2e0a-4d97-833d-7b9b9862556d.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/cca6684c-2e0a-4d97-833d-7b9b9862556d.jpg",
       "AssetKind": "All",
@@ -2091,10 +2108,27 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\cca6684c-2e0a-4d97-833d-7b9b9862556d.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\d0029b6a-bbcd-4154-9d59-6142dd2fe9fd.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\customers.csv",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "BasePath": "_content/MVCPrcatice",
+      "RelativePath": "ProfilePicture/customers.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProfilePicture\\customers.csv"
+    },
+    {
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\d0029b6a-bbcd-4154-9d59-6142dd2fe9fd.jpg",
+      "SourceId": "MVCPrcatice",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/d0029b6a-bbcd-4154-9d59-6142dd2fe9fd.jpg",
       "AssetKind": "All",
@@ -2108,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\d0029b6a-bbcd-4154-9d59-6142dd2fe9fd.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\d48b1690-5977-4906-8416-4fb98582125a.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\d48b1690-5977-4906-8416-4fb98582125a.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/d48b1690-5977-4906-8416-4fb98582125a.jpg",
       "AssetKind": "All",
@@ -2125,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\d48b1690-5977-4906-8416-4fb98582125a.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\e0e64c70-edf8-48ea-8b43-e56e9c6c5020.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\e0e64c70-edf8-48ea-8b43-e56e9c6c5020.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/e0e64c70-edf8-48ea-8b43-e56e9c6c5020.jpg",
       "AssetKind": "All",
@@ -2142,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\e0e64c70-edf8-48ea-8b43-e56e9c6c5020.jpg"
     },
     {
-      "Identity": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\minions.jpg",
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\minions.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
       "BasePath": "_content/MVCPrcatice",
       "RelativePath": "ProfilePicture/minions.jpg",
       "AssetKind": "All",
@@ -2157,6 +2191,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\minions.jpg"
+    },
+    {
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\Unauthorize.webp",
+      "SourceId": "MVCPrcatice",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "BasePath": "_content/MVCPrcatice",
+      "RelativePath": "ProfilePicture/Unauthorize.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProfilePicture\\Unauthorize.webp"
     }
   ]
 }

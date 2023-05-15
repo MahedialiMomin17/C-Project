@@ -6,12 +6,13 @@ using MVCPrcatice.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using DataAccessLayer.Models;
+using MVCPrcatice.Common;
 
 namespace MVCPrcatice.Controllers
 {
     //[Authorize(Roles = "Admin")]
     public class AccountController : Controller
-    {   
+    {
         public UserManager<ApplicationUser> _userManager { get; set; }
         public RoleManager<ApplicationRole> _roleManager { get; set; }
         private SignInManager<ApplicationUser> signInManager;
@@ -25,6 +26,16 @@ namespace MVCPrcatice.Controllers
         }
 
 
+
+        //public IActionResult AccessDenied(string returnUrl = null)
+        //{
+        //    ViewData["ReturnUrl"] = returnUrl;
+        //    return View();
+        //}
+
+
+
+
         public ActionResult Register()
         {
             //var TotalRoles = _roleManager.Roles.Count();
@@ -32,10 +43,12 @@ namespace MVCPrcatice.Controllers
             //{
             //    var objrole = _roleManager.CreateAsync(new ApplicationRole() { Name = "Admin", Description = "Admin role" }).Result;
             //    objrole = _roleManager.CreateAsync(new ApplicationRole() { Name = "Employee", Description = "Employee role" }).Result;
+            //    objrole = _roleManager.CreateAsync(new ApplicationRole() { Name = "Editor", Description = "Editor role" }).Result;
+
             //}
-            //var model = new RegisterViewModel();
-            ViewBag.Roles = _roleManager.Roles.Select(p => new SelectListItem { Text = p.Name, Value = p.Name }).ToList();
-            return View();
+            var model = new RegisterViewModel();
+            // ViewBag.Roles = _roleManager.Roles.Select(p => new SelectListItem { Text = p.Name, Value = p.Name }).ToList();
+            return View(model);
         }
 
         [HttpPost]
@@ -43,16 +56,17 @@ namespace MVCPrcatice.Controllers
         {
             if (ModelState.IsValid)
             {
-                var applicationuser = new ApplicationUser() { FirstName = model.FirstName, LastName = model.LastName, Address = model.Address, PhoneNumber = model.PhoneNumber, Email=model.Email, UserName=model.Email };
+                var applicationuser = new ApplicationUser() { FirstName = model.FirstName, LastName = model.LastName, Address = model.Address, PhoneNumber = model.PhoneNumber, Email = model.Email, UserName = model.Email };
                 var objUser = _userManager.CreateAsync(applicationuser, model.Password).Result;
                 if (objUser.Succeeded)
                 {
-                    _userManager.AddToRoleAsync(applicationuser, model.RoleId);
+                    string role = "Employee";
+                    _userManager.AddToRoleAsync(applicationuser, role);
                     ViewBag.Message = "User Created Successfully";
                 }
                 else
                 {
-                    foreach(IdentityError error in objUser.Errors)
+                    foreach (IdentityError error in objUser.Errors)
                     {
                         ModelState.AddModelError("", error.Description);
                     }
@@ -68,7 +82,7 @@ namespace MVCPrcatice.Controllers
             ViewBag.Roles = _roleManager.Roles.Select(p => new SelectListItem { Text = p.Name, Value = p.Name }).ToList();
             return View(model);
         }
-        
+
 
         public ActionResult Login()
         {
@@ -87,7 +101,7 @@ namespace MVCPrcatice.Controllers
                     var result = signInManager.PasswordSignInAsync(appUser, model.Password, false, true).Result;
                     if (result.Succeeded)
                     {
-                        return RedirectToAction("Index", "Home");
+                        return RedirectToAction("Index", "Customer");
                     }
                 }
                 ModelState.AddModelError(nameof(model.Email), "Login Failed: Invalid Email or Password");
@@ -152,8 +166,161 @@ namespace MVCPrcatice.Controllers
 
             }
 
+            return RedirectToAction("Roles");
+        }
+
+
+
+
+        [Authorize(Roles = "Admin")]
+        public ActionResult User()
+        {
+            var users = _userManager.Users.ToList();
+            ViewBag.Roles = _roleManager.Roles.ToList().Select(p => new SelectListItem { Text = p.Name, Value = p.Id.ToString() }).ToList();
+            return View(users);
+        }
+
+
+        [HttpPost]
+        [Authorize(Roles = "Admin")]
+        public ActionResult UpdateRole(string id, string role)
+        {
+            var objResponse = new CommonJsonResponse();
+
+            var user = _userManager.FindByIdAsync(id).Result;
+            if (user == null)
+            {
+                objResponse.Message = "User not found";
+                return Json(objResponse);
+            }
+
+            if (user.Roles != null && user.Roles.Count > 0)
+            {
+                user.Roles.Clear();
+                _userManager.UpdateAsync(user);
+            }
+            //var rolesToRemove = _userManager.GetRolesAsync(user).Result;
+
+            //var result = _userManager.RemoveFromRolesAsync(user, rolesToRemove).Result;
+
+            var result = _userManager.AddToRoleAsync(user, role).Result;
+            if (result.Succeeded)
+            {
+                objResponse.Message = "Role updated successfully";
+                return Json(objResponse);
+            }
+            else
+            {
+                objResponse.Message = "Failed to update role";
+                return Json(objResponse);
+            }
+
+        }
+
+
+
+
+        [HttpGet]
+        public async Task<IActionResult> EditRole(string id)
+        {
+            var role = await _roleManager.FindByIdAsync(id);
+            if (role == null)
+            {
+                return NotFound();
+            }
+            var model = new RoleViewModel
+            {
+                Name = role.Name,
+                Description = role.Description,
+            };
             return View(model);
         }
+
+        [HttpPost]
+        public async Task<IActionResult> EditRole(RoleViewModel model)
+        {
+
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+
+            var role = await _roleManager.FindByNameAsync(model.Name);
+            if (role == null)
+            {
+                return NotFound();
+            }
+            role.Description = model.Description;
+            var result = await _roleManager.UpdateAsync(role);
+
+            if (result.Succeeded)
+            {
+                return RedirectToAction("Roles", "Account");
+            }
+
+            foreach (var error in result.Errors)
+            {
+                ModelState.AddModelError("", error.Description);
+            }
+
+            return View(model);
+
+        }
+
+
+
+
+        //[HttpGet]
+        //public async Task<IActionResult> deleteRole(string id)
+        //{
+        //    var role = await _roleManager.FindByIdAsync(id);
+        //    if (role == null)
+        //    {
+        //        return NotFound();
+        //    }
+
+        //    var model = new RoleViewModel
+        //    {
+        //        Name = role.Name
+        //    };
+
+        //    return View(model);
+        //}
+
+
+
+        [HttpPost]
+        public async Task<IActionResult> DeleteRole(string id)
+        {
+            try
+            {
+                var role = await _roleManager.FindByIdAsync(id);
+                if (role == null)
+                {
+                    return NotFound();
+                }
+
+                var result = await _roleManager.DeleteAsync(role);
+
+                if (result.Succeeded)
+                {
+                    return Json(new { message = "Role deleted successfully" });
+                }
+                else
+                {
+                    return Json(new { message = "Failed to delete role" });
+                }
+            }
+            catch (Exception ex)
+            {
+                return Json(new { message = $"Error: {ex.Message}" });
+            }
+        }
+
+
+
+
+
 
     }
 }

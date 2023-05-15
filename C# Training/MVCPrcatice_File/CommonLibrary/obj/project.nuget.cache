@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E33L915hNbLFQjCkir4eKEhYo5aGAd3T5SZ8jaLCdHtUxhGPBRfO2khmof4jgsrTGv/z5sv9Dko2m/2KbKyKnA==",
+  "dgSpecHash": "XcWTovafwU1yLQBN+K9/Q1ZROjGDgqYNCiChoFyYZOx6KOofXRtsPJZnH+C+1keZ+xHx8COk2n1NObb3DU7/Cg==",
   "success": true,
-  "projectFilePath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj",
+  "projectFilePath": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

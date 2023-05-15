@@ -8025,11 +8025,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\DataAccessLayer\\obj\\",
+      "outputPath": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8046,8 +8046,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj": {
-              "projectPath": "D:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj"
+            "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj": {
+              "projectPath": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\CommonLibrary\\CommonLibrary.csproj"
             }
           }
         }

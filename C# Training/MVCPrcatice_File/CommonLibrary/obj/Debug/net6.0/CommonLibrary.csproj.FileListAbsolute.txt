@@ -10,3 +10,15 @@ D:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\obj\Debug\net6.0\
 D:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\obj\Debug\net6.0\refint\CommonLibrary.dll
 D:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\obj\Debug\net6.0\CommonLibrary.pdb
 D:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\obj\Debug\net6.0\ref\CommonLibrary.dll
+E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\bin\Debug\net6.0\CommonLibrary.deps.json
+E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\bin\Debug\net6.0\CommonLibrary.dll
+E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\bin\Debug\net6.0\CommonLibrary.pdb
+E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\obj\Debug\net6.0\CommonLibrary.csproj.AssemblyReference.cache
+E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\obj\Debug\net6.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\obj\Debug\net6.0\CommonLibrary.AssemblyInfoInputs.cache
+E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\obj\Debug\net6.0\CommonLibrary.AssemblyInfo.cs
+E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\obj\Debug\net6.0\CommonLibrary.csproj.CoreCompileInputs.cache
+E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\obj\Debug\net6.0\CommonLibrary.dll
+E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\obj\Debug\net6.0\refint\CommonLibrary.dll
+E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\obj\Debug\net6.0\CommonLibrary.pdb
+E:\C# Mahediali_GIT\C# Training\MVCPrcatice_File\CommonLibrary\obj\Debug\net6.0\ref\CommonLibrary.dll
