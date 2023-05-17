@@ -316,7 +316,7 @@ namespace MVCPrcatice.Controllers
             {
                 customer = new Customer();
             }
-            return PartialView("CreateEditCustomer", customer);
+            return PartialView("_CreateEditCustomer", customer);
         }
 
         //public ActionResult GetCustomer(string id)
@@ -332,7 +332,7 @@ namespace MVCPrcatice.Controllers
         //}
 
 
-        [Authorize(Roles = "Editor,Admin")]
+        [Authorize(Roles = "Editor,Admin,Employee")]
         //[Authorize(Roles = "Admin,Employee,Editor")]
         public ActionResult Search(string search, int page = 1, string sortby = "name", string orderby = "asc")
         {
@@ -348,7 +348,7 @@ namespace MVCPrcatice.Controllers
             var objcustomers = _memoryCache.GetOrCreate(cacheKey, entry =>
             {
                 entry.SlidingExpiration = TimeSpan.FromMinutes(10);
-                var result = _customerRepository.SearchCustomer(search, sortby, orderby, page, pageSize: 100);
+                var result = _customerRepository.SearchCustomer(search, sortby, orderby, page, pageSize: 3);
                 result.Records = result.Records.OrderBy(c => c.Name, StringComparer.OrdinalIgnoreCase).ToList();
                 return result;
             });

@@ -39,7 +39,7 @@ namespace MVCPrcatice.Models
         public string City { get; set; }
 
         public string FileName { get; set; }
-        public string ImageUrl { get; set; }
+        public string? ImageUrl { get; set; }
 
         
     }

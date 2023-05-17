@@ -418,11 +418,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Mahediali_GIT\\C# Training\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "E:\\C# Mahediali_GIT\\C# Training\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\C# Mahediali_GIT\\C# Training\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "E:\\C# Mahediali_GIT\\C# Training\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Mahediali_GIT\\C# Training\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "E:\\C# Mahediali_GIT\\C# Training\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -439,8 +439,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\C# Mahediali_GIT\\C# Training\\WebApplication1\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\C# Mahediali_GIT\\C# Training\\WebApplication1\\DataAccess\\DataAccess.csproj"
+            "E:\\C# Mahediali_GIT\\C# Training\\WebApplication1\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "E:\\C# Mahediali_GIT\\C# Training\\WebApplication1\\DataAccess\\DataAccess.csproj"
             }
           }
         }

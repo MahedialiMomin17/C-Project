@@ -79,7 +79,7 @@ namespace MVCPrcatice.Controllers
                                         .Select(x => x.ErrorMessage));
 
             }
-            ViewBag.Roles = _roleManager.Roles.Select(p => new SelectListItem { Text = p.Name, Value = p.Name }).ToList();
+           // ViewBag.Roles = _roleManager.Roles.Select(p => new SelectListItem { Text = p.Name, Value = p.Name }).ToList();
             return View(model);
         }
 
@@ -191,6 +191,7 @@ namespace MVCPrcatice.Controllers
             if (user == null)
             {
                 objResponse.Message = "User not found";
+                objResponse.Status = 0;
                 return Json(objResponse);
             }
 
@@ -207,11 +208,14 @@ namespace MVCPrcatice.Controllers
             if (result.Succeeded)
             {
                 objResponse.Message = "Role updated successfully";
+                objResponse.Status = 1;
+                objResponse.data = role; 
                 return Json(objResponse);
             }
             else
             {
                 objResponse.Message = "Failed to update role";
+                objResponse.Status = 0;
                 return Json(objResponse);
             }
 
@@ -292,6 +296,7 @@ namespace MVCPrcatice.Controllers
         [HttpPost]
         public async Task<IActionResult> DeleteRole(string id)
         {
+            var objResponse = new CommonJsonResponse();
             try
             {
                 var role = await _roleManager.FindByIdAsync(id);
@@ -304,23 +309,24 @@ namespace MVCPrcatice.Controllers
 
                 if (result.Succeeded)
                 {
-                    return Json(new { message = "Role deleted successfully" });
+                    objResponse.Message = "Role deleted successfully";
+                    objResponse.Status = 1;      
+                    return Json(objResponse);
                 }
                 else
                 {
-                    return Json(new { message = "Failed to delete role" });
+                    objResponse.Message = "Failed to delete role";
+                    objResponse.Status = 0;
+                    return Json(objResponse);
                 }
             }
             catch (Exception ex)
             {
-                return Json(new { message = $"Error: {ex.Message}" });
+                objResponse.Message = $"Error: {ex.Message}";
+                objResponse.Status = 0;
+                return Json(objResponse);
             }
         }
-
-
-
-
-
 
     }
 }

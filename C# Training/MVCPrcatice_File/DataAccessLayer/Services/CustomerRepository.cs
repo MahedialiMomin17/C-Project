@@ -93,7 +93,7 @@ namespace MVCPractice.Services
         }
 
 
-        public CustomerPaging SearchCustomer(string searchText, string sortby = "Name", string orderby = "asc", int page = 1, int pageSize = 15)
+        public CustomerPaging SearchCustomer(string searchText, string sortby = "Name", string orderby = "asc", int page = 1, int pageSize = 3)
         {
 
             var filter = Builders<Customer>.Filter.Empty;

@@ -6,7 +6,7 @@ $(document).ready(function () {
         var url = $(this).attr('href');
         $.get(url, function (data) {
             $('#customerDetails').html(data);
-            $('#CustomerModal').modal('show');
+            $('#CustomerDataModal').modal('show');
         });
     });
 
