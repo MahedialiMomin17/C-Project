@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eAuHMrPxUS58nSSDJUr7tshMv7vz3r4ftprIj3TINHU=",
+  "Hash": "TtHOjBS2FwKLCjyVeEDx42fviTLfv/vAC0dgtl4bbAE=",
   "Source": "MVCPrcatice",
   "BasePath": "_content/MVCPrcatice",
   "Mode": "Default",
@@ -1955,6 +1955,23 @@
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\40c6eb47-d49c-4f1a-bd6d-e808175a62c1.jpg"
     },
     {
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\45743a81-ffe1-4076-93db-4b350dc2165c.jpg",
+      "SourceId": "MVCPrcatice",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "BasePath": "_content/MVCPrcatice",
+      "RelativePath": "ProfilePicture/45743a81-ffe1-4076-93db-4b350dc2165c.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProfilePicture\\45743a81-ffe1-4076-93db-4b350dc2165c.jpg"
+    },
+    {
       "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\45fd732c-ecd3-4330-b56e-4e50a1fb4e1b.jpg",
       "SourceId": "MVCPrcatice",
       "SourceType": "Discovered",
@@ -2140,6 +2157,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ProfilePicture\\a188ddb4-e22e-45a3-959c-3eecbe5b61b0.jpg"
+    },
+    {
+      "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\a421c11e-f0d9-4660-ab6a-42364faedf97.jpg",
+      "SourceId": "MVCPrcatice",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\",
+      "BasePath": "_content/MVCPrcatice",
+      "RelativePath": "ProfilePicture/a421c11e-f0d9-4660-ab6a-42364faedf97.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProfilePicture\\a421c11e-f0d9-4660-ab6a-42364faedf97.jpg"
     },
     {
       "Identity": "E:\\C# Mahediali_GIT\\C# Training\\MVCPrcatice_File\\MVCPrcatice\\wwwroot\\ProfilePicture\\ae6774bd-a979-4909-8b3d-e50ec04a73fa.jpg",

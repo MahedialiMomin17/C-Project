@@ -110,7 +110,7 @@ namespace MVCPrcatice.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
         [Authorize(Roles = "Editor,Admin")]
-        public ActionResult Create(Customer user)
+        public ActionResult Create (Customer user)
         {
             try
             {

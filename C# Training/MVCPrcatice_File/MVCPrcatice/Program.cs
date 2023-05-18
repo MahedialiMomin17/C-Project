@@ -18,7 +18,7 @@ builder.Services.AddIdentity<ApplicationUser, ApplicationRole>()
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddRazorPages();
 builder.Services.AddScoped<CustomerRepository>();
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddMemoryCache();
@@ -39,6 +39,7 @@ builder.Services.ConfigureApplicationCookie(options =>
 });
 
 
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -57,7 +58,7 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 
-//app.UseStatusCodePagesWithReExecute("/Error/{0}");
+app.MapRazorPages();
 
 app.MapControllerRoute(
     name: "default",

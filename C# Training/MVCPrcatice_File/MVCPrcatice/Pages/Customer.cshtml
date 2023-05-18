@@ -1,0 +1,69 @@
+﻿@page
+@model MVCPrcatice.Pages.CustomerModel
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+@{
+    ViewData["Title"] = "Customer Search";
+    Layout = "_Layout";
+}
+<h1>Customer Search</h1>
+
+<div class="col-md-4">
+    <form method="get">
+        <input type="text" class="form-control mb-2" id="searchTextbox" name="search" value="@Model.SearchTerm" placeholder="Search here">
+    </form>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Profile Picture</th>
+            <th>
+                <a asp-page="/Customer" asp-route-search="@Model.SearchTerm" asp-route-sortby="Name" asp-route-orderby="@Model.OrderBy">Name <i class="fas fa-sort"></i></a>
+            </th>
+            <th>
+                <a asp-page="/Customer" asp-route-search="@Model.SearchTerm" asp-route-sortby="Phone" asp-route-orderby="@Model.OrderBy">Phone <i class="fas fa-sort"></i></a>
+            </th>
+            <th>
+                <a asp-page="/Customer" asp-route-search="@Model.SearchTerm" asp-route-sortby="Email" asp-route-orderby="@Model.OrderBy">Email <i class="fas fa-sort"></i></a>
+            </th>
+            <th>City</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Customers.Records)
+        {
+            <tr>
+                <td>
+                    <img src="@Url.Content("~/ProfilePicture/" + item.ImageUrl)" style="width: 70px; height: 65px; object-fit: cover; border-radius: 24%;" />
+                </td>
+                <td>@item.Name</td>
+                <td>@item.Phone</td>
+                <td>@item.Email</td>
+                <td>@item.City</td>
+               @* <td>
+                    @if (User.IsInRole("Admin") || User.IsInRole("Editor"))
+                    {
+                        <a href="@Url.Action("Edit", new { id = item.Id })" class="btn btn-primary">
+                          <i class="fas fa-edit"></i> 
+                      </a>
+                      <a href="@Url.Action("Delete", new { id = item.Id })" class="btn btn-danger">
+                          <i class="fas fa-trash-alt"></i> 
+                      </a>
+                    }
+                </td>*@
+            </tr>
+        }
+    </tbody>
+</table>
+
+<ul class="pagination">
+    @for (int i = 1; i <= Model.Customers.TotalPage; i++)
+    {
+        <li class="@(i == Model.Customers.CurrentPage ? "page-item active" : "page-item")">
+            <a class="page-link" href="/Customer?pageNo=@i&search=@Model.SearchTerm&sortby=@Model.SortBy&orderby=@Model.OrderBy">@i</a>
+            @*<a class="page-link" asp-page="/Customer" asp-route-search="@Model.SearchTerm" asp-route-pageNo="@i" asp-route-sortby="@Model.SortBy" asp-route-orderby="@Model.OrderBy">@i</a>*@
+        </li>
+    }
+</ul>

@@ -14,6 +14,6 @@ namespace MVCPractice.Models
         public int TotalPage { get; set; }
         public long TotalRecord { get; set; }
 
-
+        public int CurrentPage { get; set; }
     }
 }
